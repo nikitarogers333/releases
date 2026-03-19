@@ -1,0 +1,34 @@
+---
+pagination:
+  data: releasesPages
+  size: 1
+  alias: release
+permalink: "/releases/{{ release.dateSlug }}/index.html"
+layout: base.njk
+eleventyComputed:
+  title: "{{ release.dateSlug }}"
+---
+
+<h1>Releases — {{ release.dateSlug }}</h1>
+{% if release.fetchedAt %}
+<p class="meta">Fetched at {{ release.fetchedAt }} (UTC)</p>
+{% endif %}
+
+{% if release.items | length %}
+  {% for section in release.items | groupSources %}
+    <h2>{{ section.key | sectionTitle }}</h2>
+    <ul class="item-list">
+      {% for item in section.items %}
+        <li>
+          <a href="{{ item.url }}" rel="noopener noreferrer">{{ item.title }}</a>
+          <p class="meta">{% if section.key == "other" %}{{ item.source }} · {% endif %}{{ item.publishedAt or item.date }}</p>
+          {% if item.summary %}<p class="summary">{{ item.summary }}</p>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+{% else %}
+  <p>No items for this day (feed empty or fetch failed).</p>
+{% endif %}
+
+<p class="meta"><a href="/archive/">← Archive</a> · <a href="/">Home</a></p>

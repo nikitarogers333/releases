@@ -1,0 +1,19 @@
+{
+  "name": "releases",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "fetch": "node src/fetch-scripts/daily-fetch.js",
+    "build": "eleventy",
+    "serve": "npx serve dist -p 8080",
+    "start": "npm run fetch && npm run build && npm run serve",
+    "preview": "npm run build && npm run serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "xml2js": "^0.6.2"
+  }
+}

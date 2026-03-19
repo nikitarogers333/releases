@@ -1,0 +1,29 @@
+---
+layout: base.njk
+title: Today
+permalink: /index.html
+---
+{% set r = latestRelease %}
+<h1>{% if r.dateSlug %}Releases — {{ r.dateSlug }}{% else %}No fetch yet{% endif %}</h1>
+{% if r.fetchedAt %}
+<p class="meta">Fetched at {{ r.fetchedAt }} (UTC)</p>
+{% endif %}
+
+{% if r.items and r.items.length %}
+  {% for section in r.items | groupSources %}
+    <h2>{{ section.key | sectionTitle }}</h2>
+    <ul class="item-list">
+      {% for item in section.items %}
+        <li>
+          <a href="{{ item.url }}" rel="noopener noreferrer">{{ item.title }}</a>
+          <p class="meta">{% if section.key == "other" %}{{ item.source }} · {% endif %}{{ item.publishedAt or item.date }}</p>
+          {% if item.summary %}<p class="summary">{{ item.summary }}</p>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+{% else %}
+  <p>Run <code>npm run fetch</code> to pull the last 24 hours, then <code>npm run build</code>.</p>
+{% endif %}
+
+<p class="meta"><a href="/archive/">Past days →</a></p>

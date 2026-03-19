@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} — {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="/assets/style.css">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed.xml">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/">{{ site.title }}</a>
+    <nav>
+      <a href="/">Today</a>
+      <a href="/archive/">Archive</a>
+      <a href="/feed.xml">RSS</a>
+    </nav>
+  </header>
+  <main>
+    {{ content | safe }}
+  </main>
+  <footer class="site-footer">
+    <p>Built with Eleventy. Run <code>npm run fetch</code> locally, then <code>npm run build</code>.</p>
+  </footer>
+</body>
+</html>

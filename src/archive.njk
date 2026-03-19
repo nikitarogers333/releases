@@ -1,0 +1,22 @@
+---
+layout: base.njk
+title: Archive
+permalink: /archive/index.html
+---
+
+<h1>Archive</h1>
+<p class="meta">One page per fetch day (UTC).</p>
+
+{% if releasesPages | length %}
+  <ul class="archive-list">
+    {% for p in releasesPages %}
+      <li>
+        <a href="/releases/{{ p.dateSlug }}/">{{ p.dateSlug }}</a>
+        — {{ p.items | length }} items
+        {% if p.fetchedAt %}<span class="meta">(fetched {{ p.fetchedAt }})</span>{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No daily files yet. Run <code>npm run fetch</code>.</p>
+{% endif %}

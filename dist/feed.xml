@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily releases</title>
+    <description>Last-24h highlights from arXiv, YC, a16z (Future), G2 Learn, and Capterra (when reachable).</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    
+      
+      <item>
+        <title><![CDATA[AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception]]></title>
+        <link>http://arxiv.org/abs/2603.17979v1</link>
+        <guid>http://arxiv.org/abs/2603.17979v1</guid>
+        <pubDate>2026-03-18T17:42:34Z</pubDate>
+        <description><![CDATA[Radar is a critical perception modality in autonomous driving systems due to its all-weather characteristics and ability to measure range and Doppler velocity. However, the sheer volume of high-dimensional raw radar data saturates the communication link to the computing engine (e.g., an NPU), which is often a low-bandwidth interface with data rate provisioned only for a few low-resolution range-D… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis]]></title>
+        <link>http://arxiv.org/abs/2603.17973v1</link>
+        <guid>http://arxiv.org/abs/2603.17973v1</guid>
+        <pubDate>2026-03-18T17:38:22Z</pubDate>
+        <description><![CDATA[AI coding agents can resolve real-world software issues, yet they frequently introduce regressions, breaking tests that previously passed. Current benchmarks focus almost exclusively on resolution rate, leaving regression behavior under-studied. This paper presents TDAD (Test-Driven Agentic Development), an open-source tool and benchmark methodology that combines abstract-syntax-tree (AST) based … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Robust-ComBat: Mitigating Outlier Effects in Diffusion MRI Data Harmonization]]></title>
+        <link>http://arxiv.org/abs/2603.17968v1</link>
+        <guid>http://arxiv.org/abs/2603.17968v1</guid>
+        <pubDate>2026-03-18T17:35:25Z</pubDate>
+        <description><![CDATA[Harmonization methods such as ComBat and its variants are widely used to mitigate diffusion MRI (dMRI) site-specific biases. However, ComBat assumes that subject distributions exhibit a Gaussian profile. In practice, patients with neurological disorders often present diffusion metrics that deviate markedly from those of healthy controls, introducing pathological outliers that distort site-effect … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[MOBODY: Model Based Off-Dynamics Offline Reinforcement Learning]]></title>
+        <link>http://arxiv.org/abs/2506.08460v3</link>
+        <guid>http://arxiv.org/abs/2506.08460v3</guid>
+        <pubDate>2026-03-18T17:33:14Z</pubDate>
+        <description><![CDATA[We study off-dynamics offline reinforcement learning, where the goal is to learn a policy from offline source and limited target datasets with mismatched dynamics. Existing methods either penalize the reward or discard source transitions occurring in parts of the transition space with high dynamics shift. As a result, they optimize the policy using data from low-shift regions, limiting exploratio… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[The chemical DNA of the Magellanic Clouds VI. Origin and evolution of neutron-capture elements in the SMC]]></title>
+        <link>http://arxiv.org/abs/2603.17963v1</link>
+        <guid>http://arxiv.org/abs/2603.17963v1</guid>
+        <pubDate>2026-03-18T17:32:12Z</pubDate>
+        <description><![CDATA[Context. In the context of galactic archaeology, the study of the Small Magellanic Cloud (SMC) is of crucial importance, as it represents a unique opportunity to study a nearby massive dwarf system. However, theoretical studies of the chemical evolution of this galaxy are strikingly lacking. Aims. In this study, we investigate the chemical enrichment of the SMC galaxy. Besides alpha and Fe-peak e… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[The efficient delivery of highly-siderophile elements to the core creates a mass accretion catastrophe for the Earth]]></title>
+        <link>http://arxiv.org/abs/2603.17961v1</link>
+        <guid>http://arxiv.org/abs/2603.17961v1</guid>
+        <pubDate>2026-03-18T17:31:17Z</pubDate>
+        <description><![CDATA[The excess abundance of highly siderophile elements (HSEs), as inferred for the terrestrial planets and the Moon, is thought to record a `late veneer&#39; of impacts after the giant impact phase of planet formation. Estimates for total mass accretion during this period typically assume all HSEs delivered remain entrained in the mantle. Here, we present an analytical discussion of the fate of liquid m… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Den-TP: A Density-Balanced Data Curation and Evaluation Framework for Trajectory Prediction]]></title>
+        <link>http://arxiv.org/abs/2409.17385v4</link>
+        <guid>http://arxiv.org/abs/2409.17385v4</guid>
+        <pubDate>2026-03-18T17:31:09Z</pubDate>
+        <description><![CDATA[Trajectory prediction in autonomous driving has traditionally been studied from a model-centric perspective. However, existing datasets exhibit a strong long-tail distribution in scenario density, where common low-density cases dominate and safety-critical high-density cases are severely underrepresented. This imbalance limits model robustness and hides failure modes when standard evaluations ave… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Outer and inner medians in some small lattices]]></title>
+        <link>http://arxiv.org/abs/2603.17958v1</link>
+        <guid>http://arxiv.org/abs/2603.17958v1</guid>
+        <pubDate>2026-03-18T17:30:37Z</pubDate>
+        <description><![CDATA[By median we mean a scheme that inputs three element of a lattice, and outputs an element that is an average of the three inputs in a certain sense. The medians of a given finite lattice form a new lattice that is usually larger than the original, but generates a (not necessarily strictly) smaller variety. A median is called inner if it is a term function. The inner median lattice is closely rela… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Provably Safe Model Updates]]></title>
+        <link>http://arxiv.org/abs/2512.01899v2</link>
+        <guid>http://arxiv.org/abs/2512.01899v2</guid>
+        <pubDate>2026-03-18T17:29:55Z</pubDate>
+        <description><![CDATA[Safety-critical environments are inherently dynamic. Distribution shifts, emerging vulnerabilities, and evolving requirements demand continuous updates to machine learning models. Yet even benign parameter updates can have unintended consequences, such as catastrophic forgetting in classical models or alignment drift in foundation models. Existing heuristic approaches (e.g., regularization, param… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Learning Over Dirty Data with Minimal Repairs]]></title>
+        <link>http://arxiv.org/abs/2503.13921v2</link>
+        <guid>http://arxiv.org/abs/2503.13921v2</guid>
+        <pubDate>2026-03-18T17:28:02Z</pubDate>
+        <description><![CDATA[Missing data often exists in real-world datasets, requiring significant time and effort for data repair to learn accurate models. In this paper, we show that imputing all missing values is not always necessary to achieve an accurate ML model. We introduce concepts of minimal and almost minimal repair, which are subsets of missing data items in training data whose imputation delivers accurate and … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Properadic coformality of spheres]]></title>
+        <link>http://arxiv.org/abs/2503.04297v3</link>
+        <guid>http://arxiv.org/abs/2503.04297v3</guid>
+        <pubDate>2026-03-18T17:17:51Z</pubDate>
+        <description><![CDATA[We define a properad $Y^{(n)}_&#92;infty$ that encodes $n$-pre-Calabi--Yau algebras with vanishing copairing. These algebras include chains on the based loop space of any space $X$ endowed with a fundamental class $[X]$ such that $(X,[X])$ satisfies Poincaré duality of degree $n &#92;geqslant 1$ with local system coefficients, such as an oriented manifold. Extending the notion of coformality of spaces, w… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Number of local minima in discrete-time fractional Brownian motion]]></title>
+        <link>http://arxiv.org/abs/2506.04159v4</link>
+        <guid>http://arxiv.org/abs/2506.04159v4</guid>
+        <pubDate>2026-03-18T17:15:23Z</pubDate>
+        <description><![CDATA[The analysis of local minima in time series data and random landscapes is essential across numerous scientific disciplines, offering critical insights into system dynamics. Recently, Kundu, Majumdar, and Schehr derived the exact distribution of the number of local minima for a broad class of Markovian symmetric walks [Phys. Rev. E &#92;textbf{110}, 024137 (2024)]; however, many real-world systems are… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Exploration of Fluxonium Parameters for Capacitive Cross-Resonance Gates]]></title>
+        <link>http://arxiv.org/abs/2603.17936v1</link>
+        <guid>http://arxiv.org/abs/2603.17936v1</guid>
+        <pubDate>2026-03-18T17:10:12Z</pubDate>
+        <description><![CDATA[We study the cross-resonance effect in capacitively-coupled fluxonium qubits and devise a simple formula for their maximum ZX interaction strength. By going beyond the perturbative regime, we find that a CNOT gate can generally be realized in under 200 ns with residual ZZ limited to 50 kHz, for fluxonium qubits with frequencies below 1 GHz. Our analysis relies on a semi-analytical method: we firs… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Hyperbolic and Semi-Hyperbolic Floquet Codes for Photonic Quantum Computing]]></title>
+        <link>http://arxiv.org/abs/2602.22906v2</link>
+        <guid>http://arxiv.org/abs/2602.22906v2</guid>
+        <pubDate>2026-03-18T17:04:23Z</pubDate>
+        <description><![CDATA[Hyperbolic Floquet codes use only weight-2 measurements and can be implemented directly on hardware with native pair measurements. We construct hyperbolic and semi-hyperbolic Floquet codes from $&#92;{8,3&#92;}$, $&#92;{10,3&#92;}$, and $&#92;{12,3&#92;}$ tessellations via the Wythoff kaleidoscopic construction with the Low-Index Normal Subgroups (LINS) algorithm. The $&#92;{10,3&#92;}$ and $&#92;{12,3&#92;}$ families are new to hyperb… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Mamba2D: A Natively Multi-Dimensional State-Space Model for Vision Tasks]]></title>
+        <link>http://arxiv.org/abs/2412.16146v4</link>
+        <guid>http://arxiv.org/abs/2412.16146v4</guid>
+        <pubDate>2026-03-18T17:02:51Z</pubDate>
+        <description><![CDATA[State-Space Models (SSMs) have emerged as an efficient alternative to transformers, yet existing visual SSMs retain deeply ingrained biases from their origins in natural language processing. In this paper, we address these limitations by introducing M2D-SSM, a ground-up re-derivation of selective state-space techniques for multidimensional data. Unlike prior works that apply 1D SSMs directly to i… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Multi-Armed Sequential Hypothesis Testing by Betting]]></title>
+        <link>http://arxiv.org/abs/2603.17925v1</link>
+        <guid>http://arxiv.org/abs/2603.17925v1</guid>
+        <pubDate>2026-03-18T17:01:34Z</pubDate>
+        <description><![CDATA[We consider a variant of sequential testing by betting where, at each time step, the statistician is presented with multiple data sources (arms) and obtains data by choosing one of the arms. We consider the composite global null hypothesis $&#92;mathscr{P}$ that all arms are null in a certain sense (e.g. all dosages of a treatment are ineffective) and we are interested in rejecting $&#92;mathscr{P}$ in f… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Rotational excitation of asymmetric-top molecular ions by electron impact: application to H$_2$O$^+$, HDO$^+$, and D$_2$O$^+$]]></title>
+        <link>http://arxiv.org/abs/2603.17923v1</link>
+        <guid>http://arxiv.org/abs/2603.17923v1</guid>
+        <pubDate>2026-03-18T16:59:34Z</pubDate>
+        <description><![CDATA[The rotational excitation of the three asymmetric-top molecular ion isotopologues H$_2$O$^+$, HDO$^+$, and D$_2$O$^+$ is studied theoretically using a combined framework of electron-molecule R-matrix scattering theory, multichannel quantum-defect theory, frame transformation theory, and the Coulomb-Born approximation. The latter two have been adapted here for asymmetric-top rotors. State-resolved… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[SegFly: A 2D-3D-2D Paradigm for Aerial RGB-Thermal Semantic Segmentation at Scale]]></title>
+        <link>http://arxiv.org/abs/2603.17920v1</link>
+        <guid>http://arxiv.org/abs/2603.17920v1</guid>
+        <pubDate>2026-03-18T16:57:22Z</pubDate>
+        <description><![CDATA[Semantic segmentation for uncrewed aerial vehicles (UAVs) is fundamental for aerial scene understanding, yet existing RGB and RGB-T datasets remain limited in scale, diversity, and annotation efficiency due to the high cost of manual labeling and the difficulties of accurate RGB-T alignment on off-the-shelf UAVs. To address these challenges, we propose a scalable geometry-driven 2D-3D-2D paradigm… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Weighted equilibrium in a field of a uniform charge of an interval]]></title>
+        <link>http://arxiv.org/abs/2603.17913v1</link>
+        <guid>http://arxiv.org/abs/2603.17913v1</guid>
+        <pubDate>2026-03-18T16:53:32Z</pubDate>
+        <description><![CDATA[We study the logarithmic equilibrium problem on the interval $[-1,1]$ in the presence of an external field generated by a uniform background charge supported on the same interval. For a real parameter $τ$, the external field is taken to be $τ$ times the logarithmic potential of the unit Lebesgue measure, and for all values of $τ$ we determine explicitly the unique equilibrium measure $μ_τ$, its s… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[An efficient sum of squares nonnegativity certificate for quaternary quartic]]></title>
+        <link>http://arxiv.org/abs/1511.03473v4</link>
+        <guid>http://arxiv.org/abs/1511.03473v4</guid>
+        <pubDate>2026-03-18T16:49:39Z</pubDate>
+        <description><![CDATA[For any 4-variate quartic form $f&#92;geq 0$ (i.e. $f$ nonnegative, homogeneous polynomial of degree $4$ with real coefficients) there exist quadratic forms $q$ and $q&#39;$ so that $qq&#39;f$ is a sum of squares (s.o.s.) of quartics, by reducing to the case of $f=au^2+2bu+c$ with $a$, $b$, $c$ $3$-variate forms of degrees 2, 3, 4, respectively, and invoking on its discriminant $Δ=ac-b^2$ a theorem by Hilber… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Generative Refocusing: Flexible Defocus Control from a Single Image]]></title>
+        <link>http://arxiv.org/abs/2512.16923v3</link>
+        <guid>http://arxiv.org/abs/2512.16923v3</guid>
+        <pubDate>2026-03-18T16:44:47Z</pubDate>
+        <description><![CDATA[Depth-of-field control is essential in photography, but achieving perfect focus often requires multiple attempts or specialized equipment. Single-image refocusing is still difficult. It involves recovering sharp content and creating realistic bokeh. Current methods have significant drawbacks. They require all-in-focus inputs, rely on synthetic data from simulators, and have limited control over t… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Global Optimization By Gradient From Hierarchical Score-Matching Spaces]]></title>
+        <link>http://arxiv.org/abs/2601.11639v3</link>
+        <guid>http://arxiv.org/abs/2601.11639v3</guid>
+        <pubDate>2026-03-18T16:42:09Z</pubDate>
+        <description><![CDATA[Gradient-based methods are widely used to solve various optimization problems, however, they are either constrained by local optima dilemmas, simple convex constraints, and continuous differentiability requirements, or limited to low-dimensional simple problems. This work solve these limitations and restrictions by unifying all optimization problems with various complex constraints as a general h… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Existence of Decreasing Nambu Solutions to the Rainbow Ladder Gap Equation of QCD by Cone Compression]]></title>
+        <link>http://arxiv.org/abs/2601.11752v2</link>
+        <guid>http://arxiv.org/abs/2601.11752v2</guid>
+        <pubDate>2026-03-18T16:41:13Z</pubDate>
+        <description><![CDATA[Studying Nambu solutions of the rainbow-ladder gap equation in QCD at zero temperature and chemical potential, we prove that the mass function emerges continuously from zero as the interaction strength is increased past the critical point for all positive, asymptotically perturbative kernels almost everywhere continuous in $L^1$ using the Krasnosel&#39;skii-Guo Cone Compression Theorem. We prove that… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Mechanistic Insights into Enhanced Alkaline Oxygen Evolution on Zn-Al Alloy Electrodes]]></title>
+        <link>http://arxiv.org/abs/2603.17904v1</link>
+        <guid>http://arxiv.org/abs/2603.17904v1</guid>
+        <pubDate>2026-03-18T16:38:42Z</pubDate>
+        <description><![CDATA[Electrochemical water electrolysis, which produces clean energy carriers to mitigate carbon emissions, lacks suitable, low-cost electrodes for efficient oxygen evolution reaction (OER) in alkaline water splitting. To address this challenge, we developed Zn-Al alloy electrodes with varying Al contents up to 20 wt.% via powder metallurgy method and conducted electrochemical measurements of the OER … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[$K π$ scattering as a step towards $B &#92;to K^* &#92;ell^+ &#92;ell^-$ from Lattice QCD]]></title>
+        <link>http://arxiv.org/abs/2603.17900v1</link>
+        <guid>http://arxiv.org/abs/2603.17900v1</guid>
+        <pubDate>2026-03-18T16:33:43Z</pubDate>
+        <description><![CDATA[Rare $b&#92;to s&#92;ell^+&#92;ell^-$ decays provide some of the most sensitive tests of the Standard Model and require precise and systematically improvable hadronic input from lattice QCD. For the phenomenologically important channel $B&#92;to K^*&#92;ell^+&#92;ell^-$ this entails a first-principles treatment of a resonant $Kπ$ final state together with controlled heavy-quark dynamics. We present the status of a new e… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Omnilingual MT: Machine Translation for 1,600 Languages]]></title>
+        <link>http://arxiv.org/abs/2603.16309v2</link>
+        <guid>http://arxiv.org/abs/2603.16309v2</guid>
+        <pubDate>2026-03-18T16:25:51Z</pubDate>
+        <description><![CDATA[High-quality machine translation (MT) can scale to hundreds of languages, setting a high bar for multilingual systems. However, compared to the world&#39;s 7,000 languages, current systems still offer only limited coverage: about 200 languages on the target side, and maybe a few hundreds more on the source side, supported due to cross-lingual transfer. And even these numbers have been hard to evaluat… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Simple Paired Combinatorial Assignment]]></title>
+        <link>http://arxiv.org/abs/2501.02686v4</link>
+        <guid>http://arxiv.org/abs/2501.02686v4</guid>
+        <pubDate>2026-03-18T16:25:46Z</pubDate>
+        <description><![CDATA[Consider a university assigning students to courses and dorms. While many mechanisms are available, they each have their own drawbacks. Running serial dictatorship once for all goods is highly unfair, but running serial dictatorship separately for each matching problem is inefficient-Pareto improvements can be found via students jointly trading their allocated course and dorm. Alternatively, comp… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[On single-frequency asymptotics for the Maxwell-Bloch equations: pure states]]></title>
+        <link>http://arxiv.org/abs/2603.17888v1</link>
+        <guid>http://arxiv.org/abs/2603.17888v1</guid>
+        <pubDate>2026-03-18T16:13:31Z</pubDate>
+        <description><![CDATA[We consider damped driven Maxwell-Bloch equations for a single-mode Maxwell field coupled to a two-level molecule. The equations are used for semiclassical description of the laser action. Our main result is the construction of solutions with single-frequency asymptotics of the Maxwell field in the case of quasiperiodic pumping. The asymptotics hold for solutions with harmonic initial values whic… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[SoK: From Silicon to Netlist and Beyond $-$ Two Decades of Hardware Reverse Engineering Research]]></title>
+        <link>http://arxiv.org/abs/2603.17883v1</link>
+        <guid>http://arxiv.org/abs/2603.17883v1</guid>
+        <pubDate>2026-03-18T16:05:35Z</pubDate>
+        <description><![CDATA[As hardware serves as the root of trust in modern computing systems, Hardware Reverse Engineering (HRE) is foundational for security assurance. In practice, HRE enables critical security applications, including design verification, supply-chain assurance, and vulnerability discovery. Over the past two decades, academic research on Integrated Circuit (IC), Field-Programmable Gate Array (FPGA), and… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Differential Attention-Augmented BiomedCLIP with Asymmetric Focal Optimization for Imbalanced Multi-Label Video Capsule Endoscopy Classification]]></title>
+        <link>http://arxiv.org/abs/2603.17879v1</link>
+        <guid>http://arxiv.org/abs/2603.17879v1</guid>
+        <pubDate>2026-03-18T16:04:50Z</pubDate>
+        <description><![CDATA[This work presents a multi-label classification framework for video capsule endoscopy (VCE) that addresses the extreme class imbalance inherent in the Galar dataset through a combination of architectural and optimization-level strategies. Our approach modifies BiomedCLIP, a biomedical vision-language foundation model, by replacing its standard multi-head self-attention with a differential attenti… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Reconfigurable Resonant Multimode Nonlinear Coupling for UV-to-infrared Frequency Generation]]></title>
+        <link>http://arxiv.org/abs/2603.17878v1</link>
+        <guid>http://arxiv.org/abs/2603.17878v1</guid>
+        <pubDate>2026-03-18T16:04:21Z</pubDate>
+        <description><![CDATA[On-chip coherent visible and near-infrared (NIR) light generation has broad applications in metrology, bio-sensing, and quantum information. High-Q microresonators are ideal candidates for generating light across such broad wavelength ranges via efficient second- ($χ^{(2)}$) and third-order ($χ^{(3)}$) nonlinear optical processes. However, harnessing these diverse nonlinearities simultaneously in… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Kinetic-based macro-modeling of the solar wind at large heliocentric distances: Kappa electrons at the exobase]]></title>
+        <link>http://arxiv.org/abs/2603.17877v1</link>
+        <guid>http://arxiv.org/abs/2603.17877v1</guid>
+        <pubDate>2026-03-18T16:02:19Z</pubDate>
+        <description><![CDATA[Recent evidence from Parker Solar Probe on the suprathermal electrons with Kappa-type velocity distributions in the outer corona has revived interest in the kinetic-based macro-modelling of the solar (SW), aiming to explain its properties. Invoked in kinetic modelling of nonequilibrium plasmas, standard Kappa distributions (SKDs) have been adjusted to the regularized Kappa distributions (RKDs) to… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Two stroke Pumping Technique for Many-Body Systems]]></title>
+        <link>http://arxiv.org/abs/2603.17873v1</link>
+        <guid>http://arxiv.org/abs/2603.17873v1</guid>
+        <pubDate>2026-03-18T16:00:40Z</pubDate>
+        <description><![CDATA[I introduce a new analytical framework for estimating critical temperatures in interacting many-body systems, focusing on the Ising model. Combining the Bethe cluster setting, the Metropolis update, and the Galam Majority Model developed in sociophysics, I build a two stroke pumping technique (TSP). Applied to the Ising model in dimensions d=2, 3, 4, TSP yields values of T_c which are all at an e… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval]]></title>
+        <link>http://arxiv.org/abs/2603.17872v1</link>
+        <guid>http://arxiv.org/abs/2603.17872v1</guid>
+        <pubDate>2026-03-18T15:59:30Z</pubDate>
+        <description><![CDATA[Large Language Models (LLMs) have achieved unprecedented fluency but remain susceptible to &quot;hallucinations&quot; - the generation of factually incorrect or ungrounded content. This limitation is particularly critical in high-stakes domains where reliability is paramount. We propose a domain-grounded tiered retrieval and verification architecture designed to systematically intercept factual inaccuracie… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Substrate-controlled nucleation and growth kinetics in ultrathin Bi$_2$Te$_3$ films]]></title>
+        <link>http://arxiv.org/abs/2603.17868v1</link>
+        <guid>http://arxiv.org/abs/2603.17868v1</guid>
+        <pubDate>2026-03-18T15:55:34Z</pubDate>
+        <description><![CDATA[Metal chalcogenides are promising layered topological materials, yet their electronic performance is often limited by parasitic bulk conduction arising from defects that introduce excess carriers and shift the Fermi level out of the topological regime. Controlling early-stage growth and defect formation is therefore essential for suppressing bulk transport and enhancing surface-state conduction. … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Bivariate deconvolution for cancer detection after surgery]]></title>
+        <link>http://arxiv.org/abs/2603.17864v1</link>
+        <guid>http://arxiv.org/abs/2603.17864v1</guid>
+        <pubDate>2026-03-18T15:52:28Z</pubDate>
+        <description><![CDATA[Detection of minimal residual disease (MRD) in cancer patients after surgery can provide an early marker for disease recurrence and guide subsequent treatment decisions. Accurate and sensitive estimation of tumour burden after cancer surgery may be obtained through liq- uid biopsies, measuring circulating tumour DNA (ctDNA) using, for example, mutation-based Variant Allele Frequency (VAF) values.… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Gaussian concentration, integral probability metrics, and coupling functionals for infinite lattice systems]]></title>
+        <link>http://arxiv.org/abs/2603.17861v1</link>
+        <guid>http://arxiv.org/abs/2603.17861v1</guid>
+        <pubDate>2026-03-18T15:48:36Z</pubDate>
+        <description><![CDATA[We develop a transport-entropy framework for Gaussian concentration inequalities on the infinite product space $S^{&#92;mathbb Z^d}$, where $S$ is a finite set, in which sensitivity is measured by the $&#92;ell^2$-norm of local oscillations. We show that the associated transportation costs cannot be induced by any metric or cost function on the configuration space, due to a structural lack of extensivity… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Ambidextrous global spectra and tempered cohomology]]></title>
+        <link>http://arxiv.org/abs/2603.17853v1</link>
+        <guid>http://arxiv.org/abs/2603.17853v1</guid>
+        <pubDate>2026-03-18T15:43:00Z</pubDate>
+        <description><![CDATA[We introduce generalizations of global equivariant spectra which encode globally equivariant cohomology theories equipped with additional transfers, such as the deflation maps present in equivariant topological $K$-theory. We call these $&#92;mathcal{Q}$-ambidextrous global spectra, where $&#92;mathcal{Q}$ is a parameter encoding which additional transfers one allows. As our main example, we prove that t… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Revisiting foundation models for cell instance segmentation]]></title>
+        <link>http://arxiv.org/abs/2603.17845v1</link>
+        <guid>http://arxiv.org/abs/2603.17845v1</guid>
+        <pubDate>2026-03-18T15:34:42Z</pubDate>
+        <description><![CDATA[Cell segmentation is a fundamental task in microscopy image analysis. Several foundation models for cell segmentation have been introduced, virtually all of them are extensions of Segment Anything Model (SAM), improving it for microscopy data. Recently, SAM2 and SAM3 have been published, further improving and extending the capabilities of general-purpose segmentation foundation models. Here, we c… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Uncertainty equality for SU(N) observables enabling the experimentally friendly detection of k-inseparability via purity measurements]]></title>
+        <link>http://arxiv.org/abs/2603.17844v1</link>
+        <guid>http://arxiv.org/abs/2603.17844v1</guid>
+        <pubDate>2026-03-18T15:33:59Z</pubDate>
+        <description><![CDATA[We derive an exact uncertainty relation for arbitrary quantum states of finite-dimensional Hilbert spaces. For any given $k$-partition of a $d$-dimensional multipartite system, we introduce the total uncertainty as the sum of the uncertainties associated with all possible tensor products of local $&#92;mathrm{SU}(N)$ observables, where each observable acts on the corresponding subsystem. We show that… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[RPMS: Enhancing LLM-Based Embodied Planning through Rule-Augmented Memory Synergy]]></title>
+        <link>http://arxiv.org/abs/2603.17831v1</link>
+        <guid>http://arxiv.org/abs/2603.17831v1</guid>
+        <pubDate>2026-03-18T15:26:00Z</pubDate>
+        <description><![CDATA[LLM agents often fail in closed-world embodied environments because actions must satisfy strict preconditions -- such as location, inventory, and container states -- and failure feedback is sparse. We identify two structurally coupled failure modes: (P1) invalid action generation and (P2) state drift, each amplifying the other in a degenerative cycle. We present RPMS, a conflict-managed architect… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[CodeScout: An Effective Recipe for Reinforcement Learning of Code Search Agents]]></title>
+        <link>http://arxiv.org/abs/2603.17829v1</link>
+        <guid>http://arxiv.org/abs/2603.17829v1</guid>
+        <pubDate>2026-03-18T15:25:42Z</pubDate>
+        <description><![CDATA[A prerequisite for coding agents to perform tasks on large repositories is code localization - the identification of relevant files, classes, and functions to work on. While repository-level code localization has been performed using embedding-based retrieval approaches such as vector search, recent work has focused on developing agents to localize relevant code either as a standalone precursor t… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Steering Video Diffusion Transformers with Massive Activations]]></title>
+        <link>http://arxiv.org/abs/2603.17825v1</link>
+        <guid>http://arxiv.org/abs/2603.17825v1</guid>
+        <pubDate>2026-03-18T15:24:12Z</pubDate>
+        <description><![CDATA[Despite rapid progress in video diffusion transformers, how their internal model signals can be leveraged with minimal overhead to enhance video generation quality remains underexplored. In this work, we study the role of Massive Activations (MAs), which are rare, high-magnitude hidden state spikes in video diffusion transformers. We observed that MAs emerge consistently across all visual tokens,… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Multi-Source Evidence Fusion for Audio Question Answering]]></title>
+        <link>http://arxiv.org/abs/2603.17822v1</link>
+        <guid>http://arxiv.org/abs/2603.17822v1</guid>
+        <pubDate>2026-03-18T15:12:42Z</pubDate>
+        <description><![CDATA[Large audio language models (LALMs) can answer questions about speech, music, and environmental sounds, yet their internal reasoning is largely opaque and difficult to validate. We describe TalTech&#39;s solution to the Agent Track of the Interspeech 2026 Audio Reasoning Challenge, in which systems are evaluated on reasoning process quality, specifically the factual accuracy, logical soundness, and c… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Hamiltonian Simulation and Linear Combination of Unitary Decomposition of Structured Matrices]]></title>
+        <link>http://arxiv.org/abs/2603.17816v1</link>
+        <guid>http://arxiv.org/abs/2603.17816v1</guid>
+        <pubDate>2026-03-18T15:09:06Z</pubDate>
+        <description><![CDATA[To treat a problem with a Quantum Processing Unit (QPU), it must be transformed into a sequence of quantum operations, or gates: this is the quantum description of the problem. These operations are either packed into a query (i.e. quantum algorithm primitive) that encodes the problem, or used to construct the cost function for Variationnal Quantum Algorithm (VQA). Typical queries are the problem … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Moments of Pólya urns balanced in expectation]]></title>
+        <link>http://arxiv.org/abs/2603.17804v1</link>
+        <guid>http://arxiv.org/abs/2603.17804v1</guid>
+        <pubDate>2026-03-18T14:59:25Z</pubDate>
+        <description><![CDATA[In this work, recent results on the moments of balanced Pólya urns are generalized to unbalanced urns, with the condition that the expected change in total activity at each step is constant. We also provide applications of our results to the degree distributions of random trees grown by uniform attachment with freezing and to the degree distribution of hooking networks; in both cases we prove a n… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[NashOpt - A Python Library for Computing Generalized Nash Equilibria]]></title>
+        <link>http://arxiv.org/abs/2512.23636v3</link>
+        <guid>http://arxiv.org/abs/2512.23636v3</guid>
+        <pubDate>2026-03-18T14:54:46Z</pubDate>
+        <description><![CDATA[NashOpt is an open-source Python library for computing and designing generalized Nash equilibria (GNEs) in noncooperative games with shared constraints and real-valued decision variables. The library exploits the joint Karush-Kuhn-Tucker (KKT) conditions of all players to handle both general nonlinear GNEs and linear-quadratic games, including their variational versions. Nonlinear games are solve… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Site-selective renormalization and competing magnetic instabilities in paramagnet Y$_{3}$Cu$_{2}$Sb$_{3}$O$_{14}$]]></title>
+        <link>http://arxiv.org/abs/2603.17796v1</link>
+        <guid>http://arxiv.org/abs/2603.17796v1</guid>
+        <pubDate>2026-03-18T14:53:05Z</pubDate>
+        <description><![CDATA[Quantum spin liquids (QSLs) are exotic phases of matter characterized by long-range entanglement and the absence of magnetic order even at zero temperature. Here, we present a comprehensive theoretical study of the frustrated magnet Y$_{3}$Cu$_{2}$Sb$_{3}$O$_{14}$ to elucidate its electronic and magnetic properties. We uncover two inequivalent Cu sites with fundamentally distinct oxygen coordinat… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Exploring parameter-efficient fine-tuning (PEFT) of billion-parameter vision models with QLoRA and DoRA: insights into generalization for limited-data image classification under a 98:1 test-to-train regime]]></title>
+        <link>http://arxiv.org/abs/2603.17782v1</link>
+        <guid>http://arxiv.org/abs/2603.17782v1</guid>
+        <pubDate>2026-03-18T14:46:07Z</pubDate>
+        <description><![CDATA[Automated behavior classification is essential for precision livestock farming but faces challenges of high computational costs and limited labeled data. This study systematically compared three approaches: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters). We evaluated QLoRA … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Facts as First Class Objects: Knowledge Objects for Persistent LLM Memory]]></title>
+        <link>http://arxiv.org/abs/2603.17781v1</link>
+        <guid>http://arxiv.org/abs/2603.17781v1</guid>
+        <pubDate>2026-03-18T14:45:54Z</pubDate>
+        <description><![CDATA[Large language models increasingly serve as persistent knowledge workers, with in-context memory - facts stored in the prompt - as the default strategy. We benchmark in-context memory against Knowledge Objects (KOs), discrete hash-addressed tuples with O(1) retrieval. Within the context window, Claude Sonnet 4.5 achieves 100% exact-match accuracy from 10 to 7,000 facts (97.5% of its 200K window).… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Beware Untrusted Simulators -- Reward-Free Backdoor Attacks in Reinforcement Learning]]></title>
+        <link>http://arxiv.org/abs/2602.05089v3</link>
+        <guid>http://arxiv.org/abs/2602.05089v3</guid>
+        <pubDate>2026-03-18T14:45:34Z</pubDate>
+        <description><![CDATA[Simulated environments are a key piece in the success of Reinforcement Learning (RL), allowing practitioners and researchers to train decision making agents without running expensive experiments on real hardware. Simulators remain a security blind spot, however, enabling adversarial developers to alter the dynamics of their released simulators for malicious purposes. Therefore, in this work we hi… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Explicit Betti Numbers for Skeletons of Chordal Clique Complexes and Their Alexander Duals]]></title>
+        <link>http://arxiv.org/abs/2603.17776v1</link>
+        <guid>http://arxiv.org/abs/2603.17776v1</guid>
+        <pubDate>2026-03-18T14:39:47Z</pubDate>
+        <description><![CDATA[We study the homological properties of $Δ_{&#92;mathbf{r}}(n_1, &#92;dots, n_e)$, a simplicial complex formed by sequentially gluing complete graphs along $(r_i-1)$-simplices. This construction generates precisely the chordal clique complexes, whose Stanley-Reisner ideals admit 2-linear resolutions. By computing the $f$-vector and evaluating the Hilbert series, we establish explicit graded Betti numbers … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Quantum Depth Compression via Local Dynamic Circuits]]></title>
+        <link>http://arxiv.org/abs/2603.17774v1</link>
+        <guid>http://arxiv.org/abs/2603.17774v1</guid>
+        <pubDate>2026-03-18T14:35:20Z</pubDate>
+        <description><![CDATA[We present Quantum Depth Compression (QDC), a general compilation framework that utilizes dynamic circuits to reduce arbitrary quantum circuits to depth linear in the number of non-Clifford gates and to grid connectivity without the need for expensive SWAP-networks. The framework consists of pushing Clifford gates to the end of the circuit, resulting in a sequence of non-Clifford Pauli-phasors fo… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Large Language Models in Teaching and Learning: Reflections on Implementing an AI Chatbot in Higher Education]]></title>
+        <link>http://arxiv.org/abs/2603.17773v1</link>
+        <guid>http://arxiv.org/abs/2603.17773v1</guid>
+        <pubDate>2026-03-18T14:34:12Z</pubDate>
+        <description><![CDATA[The landscape of education is changing rapidly, shaped by emerging pedagogical approaches, technological innovations such as artificial intelligence (AI), and evolving societal expectations, all of which demand thorough evaluation of new educational tools. Although large language models (LLMs) present substantial opportunities especially in Higher Education, their propensity to generate hallucina… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Modeling Overlapped Speech with Shuffles]]></title>
+        <link>http://arxiv.org/abs/2603.17769v1</link>
+        <guid>http://arxiv.org/abs/2603.17769v1</guid>
+        <pubDate>2026-03-18T14:28:58Z</pubDate>
+        <description><![CDATA[We propose to model parallel streams of data, such as overlapped speech, using shuffles. Specifically, this paper shows how the shuffle product and partial order finite-state automata (FSAs) can be used for alignment and speaker-attributed transcription of overlapped speech. We train using the total score on these FSAs as a loss function, marginalizing over all possible serializations of overlapp… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Uncertainty Relation for Entropy and Temperature of Gibbs States]]></title>
+        <link>http://arxiv.org/abs/2603.16456v2</link>
+        <guid>http://arxiv.org/abs/2603.16456v2</guid>
+        <pubDate>2026-03-18T14:26:00Z</pubDate>
+        <description><![CDATA[We derive the quantum Fisher information for entropy estimation in a Gibbs state and show that $F_s = 1/C_v$, dual to the temperature Fisher information $F_S = C_v/T^2$. Their product $F_S&#92;cdot F_T = 1/T^2$ is independent of the Hamiltonian, yielding the universal uncertainty relation $Δ^2 S&#92;,Δ^2 T &#92;geq T^2/n^2$ in which all system-specific quantities such as heat capacity, the Hamiltonian, and t… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Discrete-time dynamics, step-skew products, and pipe-flows]]></title>
+        <link>http://arxiv.org/abs/2409.02318v5</link>
+        <guid>http://arxiv.org/abs/2409.02318v5</guid>
+        <pubDate>2026-03-18T14:24:48Z</pubDate>
+        <description><![CDATA[Dynamical processes can be classified in various ways as deterministic or stochastic, and continuous or discrete time. All these types can be studied by the path-spaces they generate, and stationary measures on that path-space. Such measures are called the law of the dynamics. This article presents how a general ergodic dynamical system may be approximated in terms of their law, by a simple and r… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Robust Dynamic Pricing and Admission Control with Fairness Guarantees]]></title>
+        <link>http://arxiv.org/abs/2603.17764v1</link>
+        <guid>http://arxiv.org/abs/2603.17764v1</guid>
+        <pubDate>2026-03-18T14:23:36Z</pubDate>
+        <description><![CDATA[Dynamic pricing is commonly used to regulate congestion in shared service systems. This paper is motivated by the fact that when heterogeneaous user groups (in terms of price responsiveness) are present, conventional monotonic pricing can lead to unfair outcomes by disproportionately excluding price-elastic users, particularly under high or uncertain demand. The paper&#39;s contributions are twofold.… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Harm or Humor: A Multimodal, Multilingual Benchmark for Overt and Covert Harmful Humor]]></title>
+        <link>http://arxiv.org/abs/2603.17759v1</link>
+        <guid>http://arxiv.org/abs/2603.17759v1</guid>
+        <pubDate>2026-03-18T14:21:10Z</pubDate>
+        <description><![CDATA[Dark humor often relies on subtle cultural nuances and implicit cues that require contextual reasoning to interpret, posing safety challenges that current static benchmarks fail to capture. To address this, we introduce a novel multimodal, multilingual benchmark for detecting and understanding harmful and offensive humor. Our manually curated dataset comprises 3,000 texts and 6,000 images in Engl… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Tangle structure trees II: trees of tangles and tangle-tree duality]]></title>
+        <link>http://arxiv.org/abs/2603.17756v1</link>
+        <guid>http://arxiv.org/abs/2603.17756v1</guid>
+        <pubDate>2026-03-18T14:17:31Z</pubDate>
+        <description><![CDATA[Tangle structure trees, introduced in [3], offer a unified data structure that displays all the tangles of a graph or data set together with certificates for the non-existence of any other tangles, either locally or overall. In this paper we apply tangle structure trees to derive new versions of the two fundamental tangle theorems: the tree-of-tangles theorem, and the tangle-tree duality theorem.… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[The asymptotic version of the Erdős-Sós conjecture and beyond]]></title>
+        <link>http://arxiv.org/abs/2603.17755v1</link>
+        <guid>http://arxiv.org/abs/2603.17755v1</guid>
+        <pubDate>2026-03-18T14:17:19Z</pubDate>
+        <description><![CDATA[Klimošová, Piguet, and Rozhoň conjectured that any graph with minimum degree $k/2$ and sufficiently many vertices of degree $k$ should contain all trees with $k$ edges. We prove an asymptotic version of this conjecture for dense host graphs. We obtain interesting corollaries: the first is an asymptotic version of the Erdős--Sós conjecture for dense host graphs, which works without any bounded-deg… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Inflation with the Gauss-Bonnet term in the Palatini formulation]]></title>
+        <link>http://arxiv.org/abs/2603.17742v1</link>
+        <guid>http://arxiv.org/abs/2603.17742v1</guid>
+        <pubDate>2026-03-18T14:09:05Z</pubDate>
+        <description><![CDATA[We consider the Gauss-Bonnet term coupled to the inflaton in the Palatini formulation of gravity. Unlike in the metric formulation, the Gauss-Bonnet term is not always a total derivative. We solve for the connection and insert it into the action, exactly for the spatially flat FLRW spacetime, and using the gradient approximation and order reduction for a general spacetime. We consider three cases… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[The p-widths of the Hemisphere]]></title>
+        <link>http://arxiv.org/abs/2603.17734v1</link>
+        <guid>http://arxiv.org/abs/2603.17734v1</guid>
+        <pubDate>2026-03-18T14:01:19Z</pubDate>
+        <description><![CDATA[We compute the p-widths, $&#92;{ω_p&#92;}$, for the hemisphere with the standard round metric. This provides the first example of a manifold with boundary for which the $p$-widths are known for all $p$. — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Rotatable Antenna-Enabled Mobile Edge Computing]]></title>
+        <link>http://arxiv.org/abs/2603.16275v2</link>
+        <guid>http://arxiv.org/abs/2603.16275v2</guid>
+        <pubDate>2026-03-18T13:58:27Z</pubDate>
+        <description><![CDATA[In the evolving landscape of mobile edge computing (MEC), enhancing communication reliability and computation efficiency to support increasingly stringent low-latency services remains a fundamental challenge. Rotatable antenna (RA) is a promising technology that introduces new spatial degrees of freedom (DoFs) to tackle this challenge. In this letter, we investigate an RA-enabled MEC system where… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[SARE: Sample-wise Adaptive Reasoning for Training-free Fine-grained Visual Recognition]]></title>
+        <link>http://arxiv.org/abs/2603.17729v1</link>
+        <guid>http://arxiv.org/abs/2603.17729v1</guid>
+        <pubDate>2026-03-18T13:49:27Z</pubDate>
+        <description><![CDATA[Recent advances in Large Vision-Language Models (LVLMs) have enabled training-free Fine-Grained Visual Recognition (FGVR). However, effectively exploiting LVLMs for FGVR remains challenging due to the inherent visual ambiguity of subordinate-level categories. Existing methods predominantly adopt either retrieval-oriented or reasoning-oriented paradigms to tackle this challenge, but both are const… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Limiting behavior of principal eigenvalues for a class of mixed boundary value problems as the measure of the support domain goes to zero]]></title>
+        <link>http://arxiv.org/abs/2603.17721v1</link>
+        <guid>http://arxiv.org/abs/2603.17721v1</guid>
+        <pubDate>2026-03-18T13:42:06Z</pubDate>
+        <description><![CDATA[In this paper we characterize the limiting behavior of the principal eigenvalue, $&#92;s_1[-&#92;D,&#92;b,Ø]$, of the boundary value problem &#92;eqref{1.1} as the Lebesgue measure of the underlying domain, $Ø$, tends to zero. Naturally, the domains $Ø$ are assumed to be included on a fixed open set $D$ such that $&#92;b&#92;in&#92;mc{C}(D)$, and they satisfy $&#92;barØ&#92;subset D$. Our main result establishes that, in the classi… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[&quot;I&#39;m Not Reading All of That&quot;: Understanding Software Engineers&#39; Level of Cognitive Engagement with Agentic Coding Assistants]]></title>
+        <link>http://arxiv.org/abs/2603.14225v2</link>
+        <guid>http://arxiv.org/abs/2603.14225v2</guid>
+        <pubDate>2026-03-18T13:41:18Z</pubDate>
+        <description><![CDATA[Over-reliance on AI systems can undermine users&#39; critical thinking and promote complacency, a risk intensified by the emergence of agentic AI systems that operate with minimal human involvement. In software engineering, agentic coding assistants (ACAs) are rapidly becoming embedded in everyday development workflows. Since software engineers (SEs) create systems deployed across diverse and high-st… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[ALPHANSO: Open-Source Modeling of ($α$,n) Neutron Source Terms]]></title>
+        <link>http://arxiv.org/abs/2603.17719v1</link>
+        <guid>http://arxiv.org/abs/2603.17719v1</guid>
+        <pubDate>2026-03-18T13:39:52Z</pubDate>
+        <description><![CDATA[Applications ranging from nuclear safeguards to dark matter detection require accurate predictions of neutron fields produced by ($α$,n) reactions. Legacy tools like SOURCES-4C remain widely used but suffer from significant limitations, including outdated nuclear data, missing target nuclides, and restricted accessibility. Here, we present ALPHANSO, an open-source Python package for calculating (… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[DiffVP: Differential Visual Semantic Prompting for LLM-Based CT Report Generation]]></title>
+        <link>http://arxiv.org/abs/2603.17718v1</link>
+        <guid>http://arxiv.org/abs/2603.17718v1</guid>
+        <pubDate>2026-03-18T13:38:26Z</pubDate>
+        <description><![CDATA[While large language models (LLMs) have advanced CT report generation, existing methods typically encode 3D volumes holistically, failing to distinguish informative cues from redundant anatomical background. Inspired by radiological cognitive subtraction, we propose Differential Visual Prompting (DiffVP), which conditions report generation on explicit, high-level semantic scan-to-reference differ… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Quantum Distribution Error Mitigation via the Circulant Structure of Pauli Noise]]></title>
+        <link>http://arxiv.org/abs/2501.01953v6</link>
+        <guid>http://arxiv.org/abs/2501.01953v6</guid>
+        <pubDate>2026-03-18T13:34:10Z</pubDate>
+        <description><![CDATA[This work introduces distribution error mitigation (DEM), which mitigates the error in the output distribution of a quantum circuit. We provide a rigorous theoretical foundation. If the composite noise affecting the circuit is a Pauli channel, the ideal output distribution and noisy distribution in the standard basis are related by a stochastic matrix. This system is described by a XOR convolutio… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Rational points in the 6d supergravity landscape and simple current extensions]]></title>
+        <link>http://arxiv.org/abs/2603.17713v1</link>
+        <guid>http://arxiv.org/abs/2603.17713v1</guid>
+        <pubDate>2026-03-18T13:32:01Z</pubDate>
+        <description><![CDATA[We investigate a recently identified class of six-dimensional supergravities without tensor multiplets whose primitive BPS strings are described by a rational superconformal field theory. Rationality imposes severe constraints on the supersymmetric spectrum of their BPS strings and provides an effective way to study this class of models, despite the absence of a conventional geometric realization… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Biclique Reconfiguration in Bipartite Graphs]]></title>
+        <link>http://arxiv.org/abs/2603.17706v1</link>
+        <guid>http://arxiv.org/abs/2603.17706v1</guid>
+        <pubDate>2026-03-18T13:24:03Z</pubDate>
+        <description><![CDATA[We prove that Balanced Biclique Reconfiguration on bipartite graphs is PSPACE-complete. This implies the PSPACE-completeness of the spanning variant of Subgraph Reconfiguration under the token jumping rule for the property &quot;a graph is an $(i, j)$-complete bipartite graph,&quot; which was previously known only to be NP-hard [Hanaka et al. TCS 2020]. Using our result, we also show that Connected Compone… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[The Moralization Corpus: Frame-Based Annotation and Analysis of Moralizing Speech Acts across Diverse Text Genres]]></title>
+        <link>http://arxiv.org/abs/2512.15248v2</link>
+        <guid>http://arxiv.org/abs/2512.15248v2</guid>
+        <pubDate>2026-03-18T13:22:06Z</pubDate>
+        <description><![CDATA[Moralizations - arguments that invoke moral values to justify demands or positions - are a yet underexplored form of persuasive communication. We present the Moralization Corpus, a novel multi-genre dataset designed to analyze how moral values are strategically used in argumentative discourse. Moralizations are pragmatically complex and often implicit, posing significant challenges for both human… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration]]></title>
+        <link>http://arxiv.org/abs/2601.21592v2</link>
+        <guid>http://arxiv.org/abs/2601.21592v2</guid>
+        <pubDate>2026-03-18T13:20:11Z</pubDate>
+        <description><![CDATA[All-in-One Image Restoration (AiOIR) faces the fundamental challenge in reconciling conflicting optimization objectives across heterogeneous degradations. Existing methods are often constrained by coarse-grained control mechanisms or fixed mapping schedules, yielding suboptimal adaptation. To address this, we propose an Uncertainty-Aware Diffusion Bridge Model (UDBM), which innovatively reformula… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Interacting ground states of moiré ladders]]></title>
+        <link>http://arxiv.org/abs/2401.00483v2</link>
+        <guid>http://arxiv.org/abs/2401.00483v2</guid>
+        <pubDate>2026-03-18T13:19:19Z</pubDate>
+        <description><![CDATA[Moiré materials have emerged as a rich platform for exploring strong correlation effects in low dimensions, with twisted bilayer graphene (TBG) as a paradigmatic example. To distill the essential ingredients driving moiré-induced phases, a simplified one-dimensional analog -- a two-leg ladder with spatially modulated interleg hopping and a uniform magnetic flux -- was recently introduced. This mo… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Workflow-Aware Structured Layer Decomposition for Illustration Production]]></title>
+        <link>http://arxiv.org/abs/2603.14925v2</link>
+        <guid>http://arxiv.org/abs/2603.14925v2</guid>
+        <pubDate>2026-03-18T13:18:12Z</pubDate>
+        <description><![CDATA[Recent generative image editing methods adopt layered representations to mitigate the entangled nature of raster images and improve controllability, typically relying on object-based segmentation. However, such strategies may fail to capture the structural and stylized properties of human-created images, such as anime illustrations. To solve this issue, we propose a workflow-aware structured laye… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[World Reconstruction From Inconsistent Views]]></title>
+        <link>http://arxiv.org/abs/2603.16736v2</link>
+        <guid>http://arxiv.org/abs/2603.16736v2</guid>
+        <pubDate>2026-03-18T13:16:47Z</pubDate>
+        <description><![CDATA[Video diffusion models generate high-quality and diverse worlds; however, individual frames often lack 3D consistency across the output sequence, which makes the reconstruction of 3D worlds difficult. To this end, we propose a new method that handles these inconsistencies by non-rigidly aligning the video frames into a globally-consistent coordinate frame that produces sharp and detailed pointclo… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Multiway junction conditions: Jackiw-Teitelboim gravity]]></title>
+        <link>http://arxiv.org/abs/2603.17695v1</link>
+        <guid>http://arxiv.org/abs/2603.17695v1</guid>
+        <pubDate>2026-03-18T13:13:15Z</pubDate>
+        <description><![CDATA[A booklet is a geometric structure formed by gluing multiple bulk spacetimes along a common interface and imposing gravitational consistency conditions at the junction. We have systematically investigated the properties of booklet structures, constructed the booklet geometry, and derived the multiway junction conditions applicable at the interface. In this work, we provide a complete solution to … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers]]></title>
+        <link>http://arxiv.org/abs/2603.10744v2</link>
+        <guid>http://arxiv.org/abs/2603.10744v2</guid>
+        <pubDate>2026-03-18T13:10:33Z</pubDate>
+        <description><![CDATA[Diffusion Transformers have established a new state-of-the-art in image synthesis, but the high computational cost of iterative sampling severely hampers their practical deployment. While existing acceleration methods often focus on the temporal domain, they overlook the substantial spatial redundancy inherent in the generative process, where global structures emerge long before fine-grained deta… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization]]></title>
+        <link>http://arxiv.org/abs/2603.17692v1</link>
+        <guid>http://arxiv.org/abs/2603.17692v1</guid>
+        <pubDate>2026-03-18T13:09:11Z</pubDate>
+        <description><![CDATA[For LLM trading agents to be genuinely trustworthy, they must demonstrate understanding of market dynamics rather than exploitation of memorized ticker associations. Building responsible multi-agent systems demands rigorous signal validation: proving that predictions reflect legitimate patterns, not pre-trained recall. We address two sources of spurious performance: memorization bias from ticker-… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Aergia: Leveraging Heterogeneity in Federated Learning Systems]]></title>
+        <link>http://arxiv.org/abs/2210.06154v2</link>
+        <guid>http://arxiv.org/abs/2210.06154v2</guid>
+        <pubDate>2026-03-18T13:06:42Z</pubDate>
+        <description><![CDATA[Federated Learning (FL) is a popular approach for distributed deep learning that prevents the pooling of large amounts of data in a central server. FL relies on clients to update a global model using their local datasets. Classical FL algorithms use a central federator that, for each training round, waits for all clients to send their model updates before aggregating them. In practical deployment… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Few-Step Diffusion Sampling Through Instance-Aware Discretizations]]></title>
+        <link>http://arxiv.org/abs/2603.17671v1</link>
+        <guid>http://arxiv.org/abs/2603.17671v1</guid>
+        <pubDate>2026-03-18T12:49:38Z</pubDate>
+        <description><![CDATA[Diffusion and flow matching models generate high-fidelity data by simulating paths defined by Ordinary or Stochastic Differential Equations (ODEs/SDEs), starting from a tractable prior distribution. The probability flow ODE formulation enables the use of advanced numerical solvers to accelerate sampling. Orthogonal yet vital to solver design is the discretization strategy. While early approaches … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[The Engine and its Flows: Little Red Dot spectra are shaped by the column densities of their gas envelopes]]></title>
+        <link>http://arxiv.org/abs/2603.17667v1</link>
+        <guid>http://arxiv.org/abs/2603.17667v1</guid>
+        <pubDate>2026-03-18T12:33:38Z</pubDate>
+        <description><![CDATA[JWST data have enabled the abundant identification of compact broad Balmer line sources nicknamed the Little Red Dots. While they share broad lines with active galactic nuclei, they are unusually X-ray and infrared weak. We investigate the origin of the Balmer line profiles based on an empirical analysis of 18 broad H$α$-selected sources with high quality spectra at $z&#92;approx3-7$. The H$α$ line p… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[More with Less - Bethel Allocation and Precision-Preserving Sample Size Reduction via Hierarchical Bayes Modelling]]></title>
+        <link>http://arxiv.org/abs/2603.17663v1</link>
+        <guid>http://arxiv.org/abs/2603.17663v1</guid>
+        <pubDate>2026-03-18T12:28:55Z</pubDate>
+        <description><![CDATA[Statistical offices face a familiar and intensifying dilemma: rising demand for detailed regional and domain-level estimates under budgets that are fixed or shrinking. National statistical offices (NSOs) either ignore the problem of optimal sample allocation for multiple target variables when designing a multi-purpose survey, or address it incorrectly - relying on ad hoc approaches such as comput… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Double Traversals in Boundary Subaisles: Implications for Two-Block Layouts]]></title>
+        <link>http://arxiv.org/abs/2512.08235v2</link>
+        <guid>http://arxiv.org/abs/2512.08235v2</guid>
+        <pubDate>2026-03-18T12:28:51Z</pubDate>
+        <description><![CDATA[The order picking problem seeks the shortest warehouse route that visits all required item locations. Strict conditions are known for single-block rectangular layouts under which optimal routes never require double traversals, while broader results show that double traversals serving cross-aisle connectivity can always be avoided. We strengthen these findings by proving that no double traversals … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Optimizing Antenna Coding for Pixel Antenna Empowered SISO-OFDM Systems]]></title>
+        <link>http://arxiv.org/abs/2603.17658v1</link>
+        <guid>http://arxiv.org/abs/2603.17658v1</guid>
+        <pubDate>2026-03-18T12:25:58Z</pubDate>
+        <description><![CDATA[This work investigates antenna coding optimization to enhance the channel capacity of single-input single-output orthogonal frequency division multiplexing (SISO-OFDM) systems empowered by highly reconfigurable pixel antennas. We first introduce the model for pixel antenna empowered SISO-OFDM systems using a beamspace channel representation. We next formulate the problem to maximize the channel c… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Homogeneous Freudenthal algebras and the first Tits construction]]></title>
+        <link>http://arxiv.org/abs/2603.17649v1</link>
+        <guid>http://arxiv.org/abs/2603.17649v1</guid>
+        <pubDate>2026-03-18T12:09:13Z</pubDate>
+        <description><![CDATA[Freudenthal algebras over a field are basically the same as Jordan algebras of degree $3$ remaining simple under all base field extensions. These algebras are intimately linked, via their automorphism groups and structure groups, to simple algebraic groups over arbitrary fields. Our main concern here will be the question of when these algebras are homogeneous in the sense that all their Jordan is… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[General bounds on functionals of the lifetime under life table constraints in a joint actuarial-financial framework]]></title>
+        <link>http://arxiv.org/abs/2603.06238v2</link>
+        <guid>http://arxiv.org/abs/2603.06238v2</guid>
+        <pubDate>2026-03-18T12:05:46Z</pubDate>
+        <description><![CDATA[In life insurance, life tables are used to estimate the survival distribution of individuals from a given population. However, these tables only provide survival probabilities at integer ages but no information about the distribution of deaths between two consecutive integer values. This incompleteness is particularly relevant for modern insurance products such as variable annuities, whose payoff… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[On the structures of &#92;{diamond, bowtie&#92;}-free graphs that do not contain an induced subdivision of $K_4$]]></title>
+        <link>http://arxiv.org/abs/2603.17645v1</link>
+        <guid>http://arxiv.org/abs/2603.17645v1</guid>
+        <pubDate>2026-03-18T12:05:45Z</pubDate>
+        <description><![CDATA[A graph is $&#92;mathrm{ISK_4}$-free if it contains no induced subdivision of $K_4$. Lévêque et al. [&#92;emph{J. Combin. Theory Ser. B} &#92;textbf{102} (2012) 924--947] conjectured that all $&#92;mathrm{ISK_4}$-free graphs are 4-colorable. Chen et al. [&#92;emph{J. Graph Theory} &#92;textbf{96} (2021) 554--577] proved that $&#92;{&#92;textnormal{ISK}_4, &#92;textnormal{diamond}, &#92;textnormal{bowtie}&#92;}$-free graphs are 4-colorable … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[DSS-GAN: Directional State Space GAN with Mamba backbone for Class-Conditional Image Synthesis]]></title>
+        <link>http://arxiv.org/abs/2603.17637v1</link>
+        <guid>http://arxiv.org/abs/2603.17637v1</guid>
+        <pubDate>2026-03-18T11:58:47Z</pubDate>
+        <description><![CDATA[We present DSS-GAN, the first generative adversarial network to employ Mamba as a hierarchical generator backbone for noise-to-image synthesis. The central contribution is Directional Latent Routing (DLR), a novel conditioning mechanism that decomposes the latent vector into direction-specific subvectors, each jointly projected with a class embedding to produce a feature-wise affine modulation of… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Hierarchical Decision-Making under Uncertainty: A Hybrid MDP and Chance-Constrained MPC Approach]]></title>
+        <link>http://arxiv.org/abs/2603.17634v1</link>
+        <guid>http://arxiv.org/abs/2603.17634v1</guid>
+        <pubDate>2026-03-18T11:56:44Z</pubDate>
+        <description><![CDATA[This paper presents a hierarchical decision-making framework for autonomous systems operating under uncertainty, demonstrated through autonomous driving as a representative application. Surrounding agents are modeled using Hybrid Markov Decision Processes (HMDPs) that jointly capture maneuver-level and dynamic-level uncertainties, enabling the multi-modal environmental prediction. The ego agent i… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Open Biomedical Knowledge Graphs at Scale: Construction, Federation, and AI Agent Access with Samyama Graph Database]]></title>
+        <link>http://arxiv.org/abs/2603.15080v3</link>
+        <guid>http://arxiv.org/abs/2603.15080v3</guid>
+        <pubDate>2026-03-18T11:46:32Z</pubDate>
+        <description><![CDATA[Biomedical knowledge is fragmented across siloed databases -- Reactome for pathways, STRING for protein interactions, ClinicalTrials.gov for study registries, DrugBank for drug vocabularies, DGIdb for drug-gene interactions, SIDER for side effects. We present three open-source biomedical knowledge graphs -- Pathways KG (118,686 nodes, 834,785 edges from 5 sources), Clinical Trials KG (7,774,446 n… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[3D Spherical Directly-Connected Antenna Array for Low-Altitude UAV Swarm ISAC]]></title>
+        <link>http://arxiv.org/abs/2603.17620v1</link>
+        <guid>http://arxiv.org/abs/2603.17620v1</guid>
+        <pubDate>2026-03-18T11:34:38Z</pubDate>
+        <description><![CDATA[Recently a novel multi-antenna architecture termed ray antenna array (RAA) was proposed, where several simple uniform linear arrays (sULAs) are arranged in a ray-like structure to enhance communication and sensing performance. By eliminating the need for phase shifters, it also significantly reduces hardware costs. However, RAA is prone to signal blockage and has no elevation angle resolution cap… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[A note on Ratliff-Rush filtration, reduction number and postulation number of $&#92;mathfrak m$-primary ideals]]></title>
+        <link>http://arxiv.org/abs/2307.01196v2</link>
+        <guid>http://arxiv.org/abs/2307.01196v2</guid>
+        <pubDate>2026-03-18T11:33:38Z</pubDate>
+        <description><![CDATA[Let $(R,&#92;mathfrak m)$ be a Cohen-Macaulay local ring of dimension $d&#92;geq 2$ and $I$ an $&#92;mathfrak m$-primary ideal. Let rd$(I)$ be the reduction number of $I$ and n$(I)$ the postulation number. We prove that for $d=2,$ if n$(I)=ρ(I)-1,$ then rd$(I) &#92;leq$n$(I)+2$ and if n$(I)&#92;neq ρ(I)-1,$ then rd$(I)&#92;geq$n$(I)+2.$ For $d &#92;geq 3$, if $I$ is integrally closed, depth gr$(I) = d-2$ and n$(I)=-(d-3).$ … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Interpretable Context Methodology: Folder Structure as Agentic Architecture]]></title>
+        <link>http://arxiv.org/abs/2603.16021v2</link>
+        <guid>http://arxiv.org/abs/2603.16021v2</guid>
+        <pubDate>2026-03-18T11:30:46Z</pubDate>
+        <description><![CDATA[Current approaches to AI agent orchestration typically involve building multi-agent frameworks that manage context passing, memory, error handling, and step coordination through code. These frameworks work well for complex, concurrent systems. But for sequential workflows where a human reviews output at each step, they introduce engineering overhead that the problem does not require. This paper p… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Theoretical Foundations of Latent Posterior Factors: Formal Guarantees for Multi-Evidence Reasoning]]></title>
+        <link>http://arxiv.org/abs/2603.15674v2</link>
+        <guid>http://arxiv.org/abs/2603.15674v2</guid>
+        <pubDate>2026-03-18T11:30:23Z</pubDate>
+        <description><![CDATA[We present a complete theoretical characterization of Latent Posterior Factors (LPF), a principled framework for aggregating multiple heterogeneous evidence items in probabilistic prediction tasks. Multi-evidence reasoning arises pervasively in high-stakes domains including healthcare diagnosis, financial risk assessment, legal case analysis, and regulatory compliance, yet existing approaches eit… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Hybrid Beamforming via Programmable Unitary RF Networks]]></title>
+        <link>http://arxiv.org/abs/2603.17616v1</link>
+        <guid>http://arxiv.org/abs/2603.17616v1</guid>
+        <pubDate>2026-03-18T11:29:51Z</pubDate>
+        <description><![CDATA[Conventional hybrid beamforming architectures are often compared with one another and with the fully-digital architecture under the same &#92;emph{radiated} antenna power. However, the physically relevant budget is the power injected by the RF-chain outputs into the passive analog RF network, which is then usually transferred to the antenna ports in a contractive (lossy) manner. This issue is especia… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[How PC-based Methods Err: Towards Better Reporting of Assumption Violations and Small Sample Errors]]></title>
+        <link>http://arxiv.org/abs/2502.14719v2</link>
+        <guid>http://arxiv.org/abs/2502.14719v2</guid>
+        <pubDate>2026-03-18T11:24:19Z</pubDate>
+        <description><![CDATA[Causal discovery methods based on the PC algorithm are proven to be sound if all structural assumptions are fulfilled and all conditional independence tests are correct. This idealized setting is rarely given in real data. In this work, we first analyze how local errors can propagate throughout the output graph of a PC-based method, highlighting how consequential seemingly innocuous errors can be… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Self-Attention And Beyond the Infinite: Towards Linear Transformers with Infinite Self-Attention]]></title>
+        <link>http://arxiv.org/abs/2603.00175v4</link>
+        <guid>http://arxiv.org/abs/2603.00175v4</guid>
+        <pubDate>2026-03-18T11:23:44Z</pubDate>
+        <description><![CDATA[The quadratic cost of softmax attention limits Transformer scalability in high-resolution vision. We introduce Infinite Self-Attention (InfSA), a spectral reformulation that treats each attention layer as a diffusion step on a content-adaptive token graph, accumulating multi-hop interactions through a discounted Neumann series over attention matrices. This links self-attention to classical graph … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Master Equation for a Quantum Gas of Polarizable Particles in Cavities]]></title>
+        <link>http://arxiv.org/abs/2508.07853v2</link>
+        <guid>http://arxiv.org/abs/2508.07853v2</guid>
+        <pubDate>2026-03-18T11:22:28Z</pubDate>
+        <description><![CDATA[Quantum gases of atoms and molecules in optical cavities offer a formidable laboratory for studying the out-of-equilibrium dynamics of open quantum systems with long-range interactions. Long-range interactions are here mediated by multiple scattering of cavity photons and can induce the formation of quantum structures in space and time. Control of these dynamics requires a detailed understanding … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Zero entropy cycles on trees: from Topology to Combinatorics and an application to star maps]]></title>
+        <link>http://arxiv.org/abs/2603.17598v1</link>
+        <guid>http://arxiv.org/abs/2603.17598v1</guid>
+        <pubDate>2026-03-18T11:13:16Z</pubDate>
+        <description><![CDATA[In this paper we give a fully combinatorial description of the zero entropy periodic patterns on trees. Unlike previously known characterizations of such patterns, our criterion is independent of any particular topological realization of the pattern and provides, thus, a practical and fast algorithm to test zero entropy. As an application, consider a $k$-star $T$ (a tree with $k$ edges attached a… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Property (LR) and an embedding theorem for virtually free groups]]></title>
+        <link>http://arxiv.org/abs/2603.17596v1</link>
+        <guid>http://arxiv.org/abs/2603.17596v1</guid>
+        <pubDate>2026-03-18T11:09:42Z</pubDate>
+        <description><![CDATA[We prove that every virtually free group $G$ has property (LR) of Long and Reid: each finitely generated subgroup of $G$ is a retract of a finite index subgroup. The main ingredient in the proof is a new embedding result stating that every countable virtually free group embeds in a double of a finite group. As a corollary, we show that any group commensurable with the direct product of a free gro… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[A Contextual Help Browser Extension to Assist Digital Illiterate Internet Users]]></title>
+        <link>http://arxiv.org/abs/2603.17592v1</link>
+        <guid>http://arxiv.org/abs/2603.17592v1</guid>
+        <pubDate>2026-03-18T11:06:56Z</pubDate>
+        <description><![CDATA[This paper describes the design, implementation, and evaluation of a browser extension that provides contextual help to users who hover over technological acronyms and abbreviations on web pages. The extension combines a curated technical dictionary with OpenAI&#39;s large language model (LLM) to deliver on-demand definitions through lightweight tooltip overlays. A dual-layer artificial intelligence … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Quantitative harmonic approximations and Dorronsoro&#39;s Theorem in metric measure spaces]]></title>
+        <link>http://arxiv.org/abs/2603.17590v1</link>
+        <guid>http://arxiv.org/abs/2603.17590v1</guid>
+        <pubDate>2026-03-18T10:57:12Z</pubDate>
+        <description><![CDATA[Suppose $X$ is an $&#92;rm{RCD}(K,N)$ space with $K &#92;in &#92;mathbb{R}$ and $N &#92;in (1,&#92;infty)$. We obtain a characterisation of the Newtonian-Sobolev space $N^{1,2}(X)$ in terms of a quantity which measures to what extent a function is locally (across all scales and locations) well-approximated by harmonic functions. A similar characterisation is obtained which further takes into account the local oscill… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[A dynamic mechanism for prevalence of triangles in competitive networks]]></title>
+        <link>http://arxiv.org/abs/2603.17584v1</link>
+        <guid>http://arxiv.org/abs/2603.17584v1</guid>
+        <pubDate>2026-03-18T10:47:12Z</pubDate>
+        <description><![CDATA[Triangles are abundant in real-world networks but rare in standard null models for sparse graphs. Existing explanations typically rely on explicit triadic closure mechanisms or geometry-based connection rules. We propose an alternative hypothesis: the frequent appearance of triangles may arise naturally from the requirement of dynamic stability that maintains coexistence of species in Lotka-Volte… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing]]></title>
+        <link>http://arxiv.org/abs/2603.17583v1</link>
+        <guid>http://arxiv.org/abs/2603.17583v1</guid>
+        <pubDate>2026-03-18T10:46:42Z</pubDate>
+        <description><![CDATA[Editing a 3D indoor scene from natural language is conceptually straightforward but technically challenging. Existing open-vocabulary systems often regenerate large portions of a scene or rely on image-space edits that disrupt spatial structure, resulting in unintended global changes or physically inconsistent layouts. These limitations stem from treating editing primarily as a generative task. W… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Quantum theory over dual-complex numbers]]></title>
+        <link>http://arxiv.org/abs/2603.17581v1</link>
+        <guid>http://arxiv.org/abs/2603.17581v1</guid>
+        <pubDate>2026-03-18T10:36:17Z</pubDate>
+        <description><![CDATA[We take quantum theory and replace $&#92;mathbb{C}$ by $&#92;mathbb{C}[&#92;varepsilon]$ where $&#92;varepsilon^2=0$, i.e. we extend quantum theory to the ring of dual complex numbers. The aim is to develop a common language in which to treat continuous quantum physics and discrete quantum models in a unified manner, including their symmetries. Since quantum theory is linear, introducing $&#92;varepsilon$ is enough … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Calligraphy Concerning Casually Compiled Cardinal Characteristic Comparisons]]></title>
+        <link>http://arxiv.org/abs/2407.09630v2</link>
+        <guid>http://arxiv.org/abs/2407.09630v2</guid>
+        <pubDate>2026-03-18T10:32:58Z</pubDate>
+        <description><![CDATA[The paper establishes several inequalities between cardinal characteristics of the continuum. In particular, it is shown that the partition splitting number is not larger than the uniformity of the meagre ideal; not all sets of reals having the cardinality of an the $&#92;varepsilon$-almost bisecting number are of strong measure zero; no fewer sets of strong measure zero than indicated by the statist… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[U-ARM : Ultra low-cost general teleoperation interface for robot manipulation]]></title>
+        <link>http://arxiv.org/abs/2509.02437v4</link>
+        <guid>http://arxiv.org/abs/2509.02437v4</guid>
+        <pubDate>2026-03-18T10:20:32Z</pubDate>
+        <description><![CDATA[We propose U-Arm, a low-cost and rapidly adaptable leader-follower teleoperation framework designed to interface with most of commercially available robotic arms. Our system supports teleoperation through three structurally distinct 3D-printed leader arms that share consistent control logic, enabling seamless compatibility with diverse commercial robot configurations. Compared with previous open-… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[A $wtt$-introimmune set in &#92;texorpdfstring{$Π^0_1$}{Pi01} and introimmunity for several reducibilities]]></title>
+        <link>http://arxiv.org/abs/2603.14264v2</link>
+        <guid>http://arxiv.org/abs/2603.14264v2</guid>
+        <pubDate>2026-03-18T10:19:03Z</pubDate>
+        <description><![CDATA[We prove that there exists a weak truth-table introimmune set in the class $Π^0_1$, settling the question left open in previous work of whether the known $Δ^0_2$ existence result can be improved to $Π^0_1$. Since $Σ^0_1$ sets cannot be immune, this is best possible for weak truth-table introimmunity. We also study introimmunity for Jockusch&#39;s bounded-search reducibility $&#92;le_{bs}$ and Andersen&#39;s … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Photometric masses for long period CVs: the case study of CSS131106]]></title>
+        <link>http://arxiv.org/abs/2603.17568v1</link>
+        <guid>http://arxiv.org/abs/2603.17568v1</guid>
+        <pubDate>2026-03-18T10:18:17Z</pubDate>
+        <description><![CDATA[We present high-speed photometry of the eclipsing cataclysmic variable CSS131106 J052412+004148. We determine the system parameters by modelling the eclipse lightcurve using the photometric eclipse method, in which the mass ratio is determined from the relative timings of the white dwarf and bright spot eclipses. Despite the blended white dwarf and bright spot ingress, typical of longer period ca… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Geometry and restoration of the quantum Mpemba effect beyond weak-coupling regime in the spin-boson model]]></title>
+        <link>http://arxiv.org/abs/2603.17565v1</link>
+        <guid>http://arxiv.org/abs/2603.17565v1</guid>
+        <pubDate>2026-03-18T10:13:48Z</pubDate>
+        <description><![CDATA[Understanding relaxation dynamics in open quantum systems is a central problem in nonequilibrium quantum physics. Here we investigate the quantum Mpemba effect in the spin-boson model. In the weak-coupling Markovian regime we show that the occurrence of the effect strongly depends on the choice of distance measure at low temperature: while it appears in the trace distance, it can disappear in the… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Equivalent class of Emergent Single Weyl Fermion in 3d Topological States: gapless superconductors and superfluids Vs chiral fermions]]></title>
+        <link>http://arxiv.org/abs/2510.25959v3</link>
+        <guid>http://arxiv.org/abs/2510.25959v3</guid>
+        <pubDate>2026-03-18T10:11:20Z</pubDate>
+        <description><![CDATA[In this article, we put forward a practical but generic approach towards constructing a large family of $(3+1)$ dimension lattice models which can naturally lead to a single Weyl cone in the infrared (IR) limit. Our proposal relies on spontaneous charge $U(1)$ symmetry breaking to evade the usual no-go theorem of a single Weyl cone in a 3d lattice. We have explored three concrete paths in this ap… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[On dynamical semigroup for damped driven Jaynes-Cummings equations]]></title>
+        <link>http://arxiv.org/abs/2603.17553v1</link>
+        <guid>http://arxiv.org/abs/2603.17553v1</guid>
+        <pubDate>2026-03-18T10:01:49Z</pubDate>
+        <description><![CDATA[The article addresses the damped driven Jaynes-Cummings for quantised one-mode Maxwell field coupled to a two-level molecule. We consider a broad class of damping and pumping which are polynomial in the creation and annihilation operators. Our main result is the construction of a contraction dynamical semigroup in the Hilbert space of Hermitian Hilbert-Schmidt operators in the case of a nonpositi… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Constructing, Classifying and Studying the Space of Small Integer Weighing Matrices]]></title>
+        <link>http://arxiv.org/abs/2603.17552v1</link>
+        <guid>http://arxiv.org/abs/2603.17552v1</guid>
+        <pubDate>2026-03-18T10:00:16Z</pubDate>
+        <description><![CDATA[Integer weighing matrices (IW-matrices for short) are integer valued orthogonal square matrices. One usecase of these is to create classical weighing matrices with various block structures. In this paper we study and classify the space $IW(n,k)$ of the integer weighing matrices of small size $n&#92;times n$ and weight $k$. Our classification includes a full list of all inequivalent matrices up to Had… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Distance Backbones Optimize Spreading Dynamics and Centrality Ranks in the Sparsification of Complex Networks]]></title>
+        <link>http://arxiv.org/abs/2603.14564v2</link>
+        <guid>http://arxiv.org/abs/2603.14564v2</guid>
+        <pubDate>2026-03-18T09:48:42Z</pubDate>
+        <description><![CDATA[Detailed network models of social, biological and other complex systems are often dense, which increases their computational complexity in simulations and analysis. To address this challenge, graph sparsification is used to remove edges while preserving desired network properties. Distance backbones of weighted graphs, which remove edges that break a generalized triangle inequality for any given … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[The Inverse Lyndon Array: Definition, Properties, and Linear-Time Construction]]></title>
+        <link>http://arxiv.org/abs/2603.17537v1</link>
+        <guid>http://arxiv.org/abs/2603.17537v1</guid>
+        <pubDate>2026-03-18T09:44:34Z</pubDate>
+        <description><![CDATA[The Lyndon array stores, at each position of a word, the length of the longest maximal Lyndon subword starting at that position, and plays an important role in combinatorics on words, for example in the construction of fundamental data structures such as the suffix array. In this paper, we introduce the Inverse Lyndon Array, the analogous structure for inverse Lyndon words, namely words that are … — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Fully 3D-Printed Wideband Metasurface Folded Reflectarray Antenna]]></title>
+        <link>http://arxiv.org/abs/2603.17526v1</link>
+        <guid>http://arxiv.org/abs/2603.17526v1</guid>
+        <pubDate>2026-03-18T09:31:06Z</pubDate>
+        <description><![CDATA[This article presents a fully 3D-printed wideband metasurface folded reflectarray antenna (MFRA) operating in the millimeter-wave n257 band. The proposed MFRA integrates a novel polarization-rotating reflective metasurface (RMS), a compact embedded horn feed, and a polarization-selective metasurface polarization grid (MPG), all fabricated using a low-cost in-house 3D-printed method. Unlike conven… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Degenerate McKean-Vlasov equations with drift in anisotropic negative Besov spaces]]></title>
+        <link>http://arxiv.org/abs/2401.09165v2</link>
+        <guid>http://arxiv.org/abs/2401.09165v2</guid>
+        <pubDate>2026-03-18T09:17:46Z</pubDate>
+        <description><![CDATA[The paper is concerned with a McKean-Vlasov type SDE with drift in anisotropic Besov spaces with negative regularity and with degenerate diffusion matrix under the weak H{ö}rmander condition. The main result is of existence and uniqueness of a solution in law for the McKean-Vlasov equation, which is formulated as a suitable martingale problem. All analytical tools needed are derived in the paper,… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Computing Characteristic Polynomials of p-Curvatures in Average Polynomial Time]]></title>
+        <link>http://arxiv.org/abs/2106.14637v3</link>
+        <guid>http://arxiv.org/abs/2106.14637v3</guid>
+        <pubDate>2026-03-18T09:14:38Z</pubDate>
+        <description><![CDATA[We design a fast algorithm that computes, for a given linear differential operator with coefficients in $Z[x ]$, all the characteristic polynomials of its p-curvatures, for all primes $p &lt; N$ , in asymptotically quasi-linear bit complexity in N. We discuss implementations and applications of our algorithm. We shall see in particular that the good performances of our algorithm are quickly visible. — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[A lightweight framework for characterising extreme precipitation events in climate ensembles]]></title>
+        <link>http://arxiv.org/abs/2603.17502v1</link>
+        <guid>http://arxiv.org/abs/2603.17502v1</guid>
+        <pubDate>2026-03-18T09:06:13Z</pubDate>
+        <description><![CDATA[This article summarises the methods used by the team ``Ca&#39; Foscari&quot; for the EVA 2025 Data Challenge. The questions of the challenge concern the estimation of exceedance probabilities across several locations. Rather than modelling the spatial dependence structure, we reduce the problems to univariate ones by considering relevant spatial order statistics across the sites. Within a Peaks over Thres… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Classification of Smooth Alignable Voss Surfaces]]></title>
+        <link>http://arxiv.org/abs/2603.17501v1</link>
+        <guid>http://arxiv.org/abs/2603.17501v1</guid>
+        <pubDate>2026-03-18T09:06:04Z</pubDate>
+        <description><![CDATA[Alignable nets are grid structures that can collapse to a planar strip, which is in fact the real-world counterpart of a curve. This property simplifies on-site assembly and enables compact transport and storage. These grid structures can then be deployed by a scissor motion at each vertex in a desired location. In this article, we classify all surfaces supporting an alignable net that additional… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Cyberlanguage: Native Communication for the Cyber-Physical-Social-Thinking Fusion Space]]></title>
+        <link>http://arxiv.org/abs/2603.17498v1</link>
+        <guid>http://arxiv.org/abs/2603.17498v1</guid>
+        <pubDate>2026-03-18T08:58:43Z</pubDate>
+        <description><![CDATA[Human communication is undergoing a fundamental paradigm shift. Physical space, social relations, mental states, and digital information are converging into a unified cyber-physical-social-thinking (CPST) fusion space, rendering them no longer separable domains. However, all existing communication systems, including natural and programming languages, as well as interaction protocols, were designe… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework]]></title>
+        <link>http://arxiv.org/abs/2510.01002v2</link>
+        <guid>http://arxiv.org/abs/2510.01002v2</guid>
+        <pubDate>2026-03-18T08:58:13Z</pubDate>
+        <description><![CDATA[Current learning-based Automated Vulnerability Repair (AVR) approaches, while promising, often fail to generalize effectively in real-world scenarios. Our diagnostic analysis reveals three fundamental weaknesses in state-of-the-art AVR approaches: (1) limited cross-repository generalization, with performance drops on unseen codebases; (2) inability to capture long-range dependencies, causing a pe… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[A Continuum Schwinger Method to Study the Pion&#39;s Generalized Parton Distribution]]></title>
+        <link>http://arxiv.org/abs/2603.17496v1</link>
+        <guid>http://arxiv.org/abs/2603.17496v1</guid>
+        <pubDate>2026-03-18T08:57:31Z</pubDate>
+        <description><![CDATA[Generalised Parton Distributions (GPDs) provide multidimensional insight into hadron structure and are particularly relevant for the pion, whose dynamics are intimately linked to chiral symmetry breaking. We introduce a novel modelling strategy for pion GPDs that satisfies all QCD constraints by construction: support, polynomiality, positivity, and the soft-pion theorem. The approach is illustrat… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[A Weight-Dependent 1RM Prediction Equation Optimized on 303,494 Near-Failure Sets Across 388 Exercises]]></title>
+        <link>http://arxiv.org/abs/2603.17495v1</link>
+        <guid>http://arxiv.org/abs/2603.17495v1</guid>
+        <pubDate>2026-03-18T08:57:06Z</pubDate>
+        <description><![CDATA[Classical equations for predicting one-repetition maximum (1RM) from submaximal performance were derived from small samples performing a single exercise, yet are routinely applied to hundreds of exercises. All use a fixed conversion factor relating repetitions to estimated 1RM, regardless of exercise or load. We used large-scale observational data from a consumer fitness app (303,494 near-failure… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Kinetic Sobolev Spaces]]></title>
+        <link>http://arxiv.org/abs/2603.17491v1</link>
+        <guid>http://arxiv.org/abs/2603.17491v1</guid>
+        <pubDate>2026-03-18T08:55:17Z</pubDate>
+        <description><![CDATA[We define and study homogeneous kinetic Sobolev spaces adapted to the Kolmogorov equation. We consider both local and non-local diffusion. The spaces are built from the Lebesgue spaces L p for all integrability exponents p $&#92;in$ (1, $&#92;infty$) with regularity assumptions in the transport and diffusive directions according to the scaling of the Kolmogorov equation. The regularity scale accommodates… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Variants of the Damascus inequality]]></title>
+        <link>http://arxiv.org/abs/2601.00916v4</link>
+        <guid>http://arxiv.org/abs/2601.00916v4</guid>
+        <pubDate>2026-03-18T08:39:29Z</pubDate>
+        <description><![CDATA[In 2016, Dannan and Sitnik established the notable Damascus inequality, which features a symmetric structure under a multiplicative constraint. In this study, we consider the natural generalisation of this inequality by characterising all positive integers $m$ and $n$ such that the inequality &#92;[&#92;sum_{j=1}^m&#92;frac{x_j^n-1}{x_{j}^{n+1}+1}&#92;leqslant 0&#92;] holds for any positive real numbers $x_1, &#92;ldots… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Large time behaviour for the semigroup of the kinetic Brownian motion in the plane]]></title>
+        <link>http://arxiv.org/abs/2603.17480v1</link>
+        <guid>http://arxiv.org/abs/2603.17480v1</guid>
+        <pubDate>2026-03-18T08:38:36Z</pubDate>
+        <description><![CDATA[We establish an integration by parts formula for the semi-group in time $T &gt; 0$ of the kinetic Brownian motion in the Euclidean plane together with its speed in the circle. The stochastic differential equation of our kinetic Brownian motion is driven here by one real-valued Brownian motion constructed with an orthonormal basis of $L^2([0,T],&#92;mathbb R)$ and an independent sequence of $&#92;mathscr N(0… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Chain of Mindset: Reasoning with Adaptive Cognitive Modes]]></title>
+        <link>http://arxiv.org/abs/2602.10063v2</link>
+        <guid>http://arxiv.org/abs/2602.10063v2</guid>
+        <pubDate>2026-03-18T08:27:44Z</pubDate>
+        <description><![CDATA[Human problem-solving is never the repetition of a single mindset, by which we mean a distinct mode of cognitive processing. When tackling a specific task, we do not rely on a single mindset; instead, we integrate multiple mindsets within the single solution process. However, existing LLM reasoning methods fall into a common trap: they apply the same fixed mindset across all steps, overlooking th… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Revisiting Stochastic Gradient Descent for Strongly Convex Objectives: Tight Uniform-in-Time Bounds]]></title>
+        <link>http://arxiv.org/abs/2508.20823v2</link>
+        <guid>http://arxiv.org/abs/2508.20823v2</guid>
+        <pubDate>2026-03-18T08:20:18Z</pubDate>
+        <description><![CDATA[Stochastic optimization via Stochastic Gradient Descent (SGD) is a fundamental problem in statistics and optimization. This paper revisits Stochastic Gradient Descent (SGD) for strongly convex objectives, establishing tight, uniform-in-time convergence bounds. We prove that, with probability at least $1 - β$, a convergence rate of order $&#92;frac{&#92;log &#92;log k + &#92;log (1/β)}{k}$ simultaneously holds fo… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Assessing LLM Reasoning Through Implicit Causal Chain Discovery in Climate Discourse]]></title>
+        <link>http://arxiv.org/abs/2510.13417v2</link>
+        <guid>http://arxiv.org/abs/2510.13417v2</guid>
+        <pubDate>2026-03-18T08:14:50Z</pubDate>
+        <description><![CDATA[How does a cause lead to an effect, and which intermediate causal steps explain their connection? This work scrutinizes the mechanistic causal reasoning capabilities of large language models (LLMs) to answer these questions through the task of implicit causal chain discovery. In a diagnostic evaluation framework, we instruct nine LLMs to generate all possible intermediate causal steps linking giv… — arXiv]]></description>
+      </item>
+      
+      <item>
+        <title><![CDATA[Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation]]></title>
+        <link>http://arxiv.org/abs/2602.10489v2</link>
+        <guid>http://arxiv.org/abs/2602.10489v2</guid>
+        <pubDate>2026-03-18T08:03:42Z</pubDate>
+        <description><![CDATA[Graph Domain Adaptation (GDA) transfers knowledge from labeled source graphs to unlabeled target graphs but is challenged by complex, multi-faceted distributional shifts. Existing methods attempt to reduce distributional shifts by aligning manually selected graph elements (e.g., node attributes or structural statistics), which typically require manually designed graph filters to extract relevant … — arXiv]]></description>
+      </item>
+      
+    
+  </channel>
+</rss>

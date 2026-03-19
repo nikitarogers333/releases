@@ -1,0 +1,29 @@
+# Optional: run fetch + build in CI. Default is local-only — trigger manually.
+name: Daily fetch and build
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "20 6 * * *"  # ~06:20 UTC daily — uncomment to enable
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+      - run: npm ci
+      - run: npm run fetch
+      - run: npm run build
+      - name: Commit data + dist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/_data/daily/*.json dist/
+          git diff --staged --quiet || git commit -m "chore: daily fetch ${{ github.run_id }}"
+          git push

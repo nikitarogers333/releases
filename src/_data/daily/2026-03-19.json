@@ -1,0 +1,1070 @@
+{
+  "dateSlug": "2026-03-19",
+  "fetchedAt": "2026-03-19T07:56:47.509Z",
+  "items": [
+    {
+      "title": "AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception",
+      "url": "http://arxiv.org/abs/2603.17979v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:42:34Z",
+      "summary": "Radar is a critical perception modality in autonomous driving systems due to its all-weather characteristics and ability to measure range and Doppler velocity. However, the sheer volume of high-dimensional raw radar data saturates the communication link to the computing engine (e.g., an NPU), which is often a low-bandwidth interface with data rate provisioned only for a few low-resolution range-D…"
+    },
+    {
+      "title": "TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis",
+      "url": "http://arxiv.org/abs/2603.17973v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:38:22Z",
+      "summary": "AI coding agents can resolve real-world software issues, yet they frequently introduce regressions, breaking tests that previously passed. Current benchmarks focus almost exclusively on resolution rate, leaving regression behavior under-studied. This paper presents TDAD (Test-Driven Agentic Development), an open-source tool and benchmark methodology that combines abstract-syntax-tree (AST) based …"
+    },
+    {
+      "title": "Robust-ComBat: Mitigating Outlier Effects in Diffusion MRI Data Harmonization",
+      "url": "http://arxiv.org/abs/2603.17968v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:35:25Z",
+      "summary": "Harmonization methods such as ComBat and its variants are widely used to mitigate diffusion MRI (dMRI) site-specific biases. However, ComBat assumes that subject distributions exhibit a Gaussian profile. In practice, patients with neurological disorders often present diffusion metrics that deviate markedly from those of healthy controls, introducing pathological outliers that distort site-effect …"
+    },
+    {
+      "title": "MOBODY: Model Based Off-Dynamics Offline Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2506.08460v3",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:33:14Z",
+      "summary": "We study off-dynamics offline reinforcement learning, where the goal is to learn a policy from offline source and limited target datasets with mismatched dynamics. Existing methods either penalize the reward or discard source transitions occurring in parts of the transition space with high dynamics shift. As a result, they optimize the policy using data from low-shift regions, limiting exploratio…"
+    },
+    {
+      "title": "The chemical DNA of the Magellanic Clouds VI. Origin and evolution of neutron-capture elements in the SMC",
+      "url": "http://arxiv.org/abs/2603.17963v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:32:12Z",
+      "summary": "Context. In the context of galactic archaeology, the study of the Small Magellanic Cloud (SMC) is of crucial importance, as it represents a unique opportunity to study a nearby massive dwarf system. However, theoretical studies of the chemical evolution of this galaxy are strikingly lacking. Aims. In this study, we investigate the chemical enrichment of the SMC galaxy. Besides alpha and Fe-peak e…"
+    },
+    {
+      "title": "The efficient delivery of highly-siderophile elements to the core creates a mass accretion catastrophe for the Earth",
+      "url": "http://arxiv.org/abs/2603.17961v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:31:17Z",
+      "summary": "The excess abundance of highly siderophile elements (HSEs), as inferred for the terrestrial planets and the Moon, is thought to record a `late veneer' of impacts after the giant impact phase of planet formation. Estimates for total mass accretion during this period typically assume all HSEs delivered remain entrained in the mantle. Here, we present an analytical discussion of the fate of liquid m…"
+    },
+    {
+      "title": "Den-TP: A Density-Balanced Data Curation and Evaluation Framework for Trajectory Prediction",
+      "url": "http://arxiv.org/abs/2409.17385v4",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:31:09Z",
+      "summary": "Trajectory prediction in autonomous driving has traditionally been studied from a model-centric perspective. However, existing datasets exhibit a strong long-tail distribution in scenario density, where common low-density cases dominate and safety-critical high-density cases are severely underrepresented. This imbalance limits model robustness and hides failure modes when standard evaluations ave…"
+    },
+    {
+      "title": "Outer and inner medians in some small lattices",
+      "url": "http://arxiv.org/abs/2603.17958v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:30:37Z",
+      "summary": "By median we mean a scheme that inputs three element of a lattice, and outputs an element that is an average of the three inputs in a certain sense. The medians of a given finite lattice form a new lattice that is usually larger than the original, but generates a (not necessarily strictly) smaller variety. A median is called inner if it is a term function. The inner median lattice is closely rela…"
+    },
+    {
+      "title": "Provably Safe Model Updates",
+      "url": "http://arxiv.org/abs/2512.01899v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:29:55Z",
+      "summary": "Safety-critical environments are inherently dynamic. Distribution shifts, emerging vulnerabilities, and evolving requirements demand continuous updates to machine learning models. Yet even benign parameter updates can have unintended consequences, such as catastrophic forgetting in classical models or alignment drift in foundation models. Existing heuristic approaches (e.g., regularization, param…"
+    },
+    {
+      "title": "Learning Over Dirty Data with Minimal Repairs",
+      "url": "http://arxiv.org/abs/2503.13921v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:28:02Z",
+      "summary": "Missing data often exists in real-world datasets, requiring significant time and effort for data repair to learn accurate models. In this paper, we show that imputing all missing values is not always necessary to achieve an accurate ML model. We introduce concepts of minimal and almost minimal repair, which are subsets of missing data items in training data whose imputation delivers accurate and …"
+    },
+    {
+      "title": "Properadic coformality of spheres",
+      "url": "http://arxiv.org/abs/2503.04297v3",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:17:51Z",
+      "summary": "We define a properad $Y^{(n)}_\\infty$ that encodes $n$-pre-Calabi--Yau algebras with vanishing copairing. These algebras include chains on the based loop space of any space $X$ endowed with a fundamental class $[X]$ such that $(X,[X])$ satisfies Poincaré duality of degree $n \\geqslant 1$ with local system coefficients, such as an oriented manifold. Extending the notion of coformality of spaces, w…"
+    },
+    {
+      "title": "Number of local minima in discrete-time fractional Brownian motion",
+      "url": "http://arxiv.org/abs/2506.04159v4",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:15:23Z",
+      "summary": "The analysis of local minima in time series data and random landscapes is essential across numerous scientific disciplines, offering critical insights into system dynamics. Recently, Kundu, Majumdar, and Schehr derived the exact distribution of the number of local minima for a broad class of Markovian symmetric walks [Phys. Rev. E \\textbf{110}, 024137 (2024)]; however, many real-world systems are…"
+    },
+    {
+      "title": "Exploration of Fluxonium Parameters for Capacitive Cross-Resonance Gates",
+      "url": "http://arxiv.org/abs/2603.17936v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:10:12Z",
+      "summary": "We study the cross-resonance effect in capacitively-coupled fluxonium qubits and devise a simple formula for their maximum ZX interaction strength. By going beyond the perturbative regime, we find that a CNOT gate can generally be realized in under 200 ns with residual ZZ limited to 50 kHz, for fluxonium qubits with frequencies below 1 GHz. Our analysis relies on a semi-analytical method: we firs…"
+    },
+    {
+      "title": "Hyperbolic and Semi-Hyperbolic Floquet Codes for Photonic Quantum Computing",
+      "url": "http://arxiv.org/abs/2602.22906v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:04:23Z",
+      "summary": "Hyperbolic Floquet codes use only weight-2 measurements and can be implemented directly on hardware with native pair measurements. We construct hyperbolic and semi-hyperbolic Floquet codes from $\\{8,3\\}$, $\\{10,3\\}$, and $\\{12,3\\}$ tessellations via the Wythoff kaleidoscopic construction with the Low-Index Normal Subgroups (LINS) algorithm. The $\\{10,3\\}$ and $\\{12,3\\}$ families are new to hyperb…"
+    },
+    {
+      "title": "Mamba2D: A Natively Multi-Dimensional State-Space Model for Vision Tasks",
+      "url": "http://arxiv.org/abs/2412.16146v4",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:02:51Z",
+      "summary": "State-Space Models (SSMs) have emerged as an efficient alternative to transformers, yet existing visual SSMs retain deeply ingrained biases from their origins in natural language processing. In this paper, we address these limitations by introducing M2D-SSM, a ground-up re-derivation of selective state-space techniques for multidimensional data. Unlike prior works that apply 1D SSMs directly to i…"
+    },
+    {
+      "title": "Multi-Armed Sequential Hypothesis Testing by Betting",
+      "url": "http://arxiv.org/abs/2603.17925v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T17:01:34Z",
+      "summary": "We consider a variant of sequential testing by betting where, at each time step, the statistician is presented with multiple data sources (arms) and obtains data by choosing one of the arms. We consider the composite global null hypothesis $\\mathscr{P}$ that all arms are null in a certain sense (e.g. all dosages of a treatment are ineffective) and we are interested in rejecting $\\mathscr{P}$ in f…"
+    },
+    {
+      "title": "Rotational excitation of asymmetric-top molecular ions by electron impact: application to H$_2$O$^+$, HDO$^+$, and D$_2$O$^+$",
+      "url": "http://arxiv.org/abs/2603.17923v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:59:34Z",
+      "summary": "The rotational excitation of the three asymmetric-top molecular ion isotopologues H$_2$O$^+$, HDO$^+$, and D$_2$O$^+$ is studied theoretically using a combined framework of electron-molecule R-matrix scattering theory, multichannel quantum-defect theory, frame transformation theory, and the Coulomb-Born approximation. The latter two have been adapted here for asymmetric-top rotors. State-resolved…"
+    },
+    {
+      "title": "SegFly: A 2D-3D-2D Paradigm for Aerial RGB-Thermal Semantic Segmentation at Scale",
+      "url": "http://arxiv.org/abs/2603.17920v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:57:22Z",
+      "summary": "Semantic segmentation for uncrewed aerial vehicles (UAVs) is fundamental for aerial scene understanding, yet existing RGB and RGB-T datasets remain limited in scale, diversity, and annotation efficiency due to the high cost of manual labeling and the difficulties of accurate RGB-T alignment on off-the-shelf UAVs. To address these challenges, we propose a scalable geometry-driven 2D-3D-2D paradigm…"
+    },
+    {
+      "title": "Weighted equilibrium in a field of a uniform charge of an interval",
+      "url": "http://arxiv.org/abs/2603.17913v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:53:32Z",
+      "summary": "We study the logarithmic equilibrium problem on the interval $[-1,1]$ in the presence of an external field generated by a uniform background charge supported on the same interval. For a real parameter $τ$, the external field is taken to be $τ$ times the logarithmic potential of the unit Lebesgue measure, and for all values of $τ$ we determine explicitly the unique equilibrium measure $μ_τ$, its s…"
+    },
+    {
+      "title": "An efficient sum of squares nonnegativity certificate for quaternary quartic",
+      "url": "http://arxiv.org/abs/1511.03473v4",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:49:39Z",
+      "summary": "For any 4-variate quartic form $f\\geq 0$ (i.e. $f$ nonnegative, homogeneous polynomial of degree $4$ with real coefficients) there exist quadratic forms $q$ and $q'$ so that $qq'f$ is a sum of squares (s.o.s.) of quartics, by reducing to the case of $f=au^2+2bu+c$ with $a$, $b$, $c$ $3$-variate forms of degrees 2, 3, 4, respectively, and invoking on its discriminant $Δ=ac-b^2$ a theorem by Hilber…"
+    },
+    {
+      "title": "Generative Refocusing: Flexible Defocus Control from a Single Image",
+      "url": "http://arxiv.org/abs/2512.16923v3",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:44:47Z",
+      "summary": "Depth-of-field control is essential in photography, but achieving perfect focus often requires multiple attempts or specialized equipment. Single-image refocusing is still difficult. It involves recovering sharp content and creating realistic bokeh. Current methods have significant drawbacks. They require all-in-focus inputs, rely on synthetic data from simulators, and have limited control over t…"
+    },
+    {
+      "title": "Global Optimization By Gradient From Hierarchical Score-Matching Spaces",
+      "url": "http://arxiv.org/abs/2601.11639v3",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:42:09Z",
+      "summary": "Gradient-based methods are widely used to solve various optimization problems, however, they are either constrained by local optima dilemmas, simple convex constraints, and continuous differentiability requirements, or limited to low-dimensional simple problems. This work solve these limitations and restrictions by unifying all optimization problems with various complex constraints as a general h…"
+    },
+    {
+      "title": "Existence of Decreasing Nambu Solutions to the Rainbow Ladder Gap Equation of QCD by Cone Compression",
+      "url": "http://arxiv.org/abs/2601.11752v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:41:13Z",
+      "summary": "Studying Nambu solutions of the rainbow-ladder gap equation in QCD at zero temperature and chemical potential, we prove that the mass function emerges continuously from zero as the interaction strength is increased past the critical point for all positive, asymptotically perturbative kernels almost everywhere continuous in $L^1$ using the Krasnosel'skii-Guo Cone Compression Theorem. We prove that…"
+    },
+    {
+      "title": "Mechanistic Insights into Enhanced Alkaline Oxygen Evolution on Zn-Al Alloy Electrodes",
+      "url": "http://arxiv.org/abs/2603.17904v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:38:42Z",
+      "summary": "Electrochemical water electrolysis, which produces clean energy carriers to mitigate carbon emissions, lacks suitable, low-cost electrodes for efficient oxygen evolution reaction (OER) in alkaline water splitting. To address this challenge, we developed Zn-Al alloy electrodes with varying Al contents up to 20 wt.% via powder metallurgy method and conducted electrochemical measurements of the OER …"
+    },
+    {
+      "title": "$K π$ scattering as a step towards $B \\to K^* \\ell^+ \\ell^-$ from Lattice QCD",
+      "url": "http://arxiv.org/abs/2603.17900v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:33:43Z",
+      "summary": "Rare $b\\to s\\ell^+\\ell^-$ decays provide some of the most sensitive tests of the Standard Model and require precise and systematically improvable hadronic input from lattice QCD. For the phenomenologically important channel $B\\to K^*\\ell^+\\ell^-$ this entails a first-principles treatment of a resonant $Kπ$ final state together with controlled heavy-quark dynamics. We present the status of a new e…"
+    },
+    {
+      "title": "Omnilingual MT: Machine Translation for 1,600 Languages",
+      "url": "http://arxiv.org/abs/2603.16309v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:25:51Z",
+      "summary": "High-quality machine translation (MT) can scale to hundreds of languages, setting a high bar for multilingual systems. However, compared to the world's 7,000 languages, current systems still offer only limited coverage: about 200 languages on the target side, and maybe a few hundreds more on the source side, supported due to cross-lingual transfer. And even these numbers have been hard to evaluat…"
+    },
+    {
+      "title": "Simple Paired Combinatorial Assignment",
+      "url": "http://arxiv.org/abs/2501.02686v4",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:25:46Z",
+      "summary": "Consider a university assigning students to courses and dorms. While many mechanisms are available, they each have their own drawbacks. Running serial dictatorship once for all goods is highly unfair, but running serial dictatorship separately for each matching problem is inefficient-Pareto improvements can be found via students jointly trading their allocated course and dorm. Alternatively, comp…"
+    },
+    {
+      "title": "On single-frequency asymptotics for the Maxwell-Bloch equations: pure states",
+      "url": "http://arxiv.org/abs/2603.17888v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:13:31Z",
+      "summary": "We consider damped driven Maxwell-Bloch equations for a single-mode Maxwell field coupled to a two-level molecule. The equations are used for semiclassical description of the laser action. Our main result is the construction of solutions with single-frequency asymptotics of the Maxwell field in the case of quasiperiodic pumping. The asymptotics hold for solutions with harmonic initial values whic…"
+    },
+    {
+      "title": "SoK: From Silicon to Netlist and Beyond $-$ Two Decades of Hardware Reverse Engineering Research",
+      "url": "http://arxiv.org/abs/2603.17883v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:05:35Z",
+      "summary": "As hardware serves as the root of trust in modern computing systems, Hardware Reverse Engineering (HRE) is foundational for security assurance. In practice, HRE enables critical security applications, including design verification, supply-chain assurance, and vulnerability discovery. Over the past two decades, academic research on Integrated Circuit (IC), Field-Programmable Gate Array (FPGA), and…"
+    },
+    {
+      "title": "Differential Attention-Augmented BiomedCLIP with Asymmetric Focal Optimization for Imbalanced Multi-Label Video Capsule Endoscopy Classification",
+      "url": "http://arxiv.org/abs/2603.17879v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:04:50Z",
+      "summary": "This work presents a multi-label classification framework for video capsule endoscopy (VCE) that addresses the extreme class imbalance inherent in the Galar dataset through a combination of architectural and optimization-level strategies. Our approach modifies BiomedCLIP, a biomedical vision-language foundation model, by replacing its standard multi-head self-attention with a differential attenti…"
+    },
+    {
+      "title": "Reconfigurable Resonant Multimode Nonlinear Coupling for UV-to-infrared Frequency Generation",
+      "url": "http://arxiv.org/abs/2603.17878v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:04:21Z",
+      "summary": "On-chip coherent visible and near-infrared (NIR) light generation has broad applications in metrology, bio-sensing, and quantum information. High-Q microresonators are ideal candidates for generating light across such broad wavelength ranges via efficient second- ($χ^{(2)}$) and third-order ($χ^{(3)}$) nonlinear optical processes. However, harnessing these diverse nonlinearities simultaneously in…"
+    },
+    {
+      "title": "Kinetic-based macro-modeling of the solar wind at large heliocentric distances: Kappa electrons at the exobase",
+      "url": "http://arxiv.org/abs/2603.17877v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:02:19Z",
+      "summary": "Recent evidence from Parker Solar Probe on the suprathermal electrons with Kappa-type velocity distributions in the outer corona has revived interest in the kinetic-based macro-modelling of the solar (SW), aiming to explain its properties. Invoked in kinetic modelling of nonequilibrium plasmas, standard Kappa distributions (SKDs) have been adjusted to the regularized Kappa distributions (RKDs) to…"
+    },
+    {
+      "title": "Two stroke Pumping Technique for Many-Body Systems",
+      "url": "http://arxiv.org/abs/2603.17873v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T16:00:40Z",
+      "summary": "I introduce a new analytical framework for estimating critical temperatures in interacting many-body systems, focusing on the Ising model. Combining the Bethe cluster setting, the Metropolis update, and the Galam Majority Model developed in sociophysics, I build a two stroke pumping technique (TSP). Applied to the Ising model in dimensions d=2, 3, 4, TSP yields values of T_c which are all at an e…"
+    },
+    {
+      "title": "Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval",
+      "url": "http://arxiv.org/abs/2603.17872v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T15:59:30Z",
+      "summary": "Large Language Models (LLMs) have achieved unprecedented fluency but remain susceptible to \"hallucinations\" - the generation of factually incorrect or ungrounded content. This limitation is particularly critical in high-stakes domains where reliability is paramount. We propose a domain-grounded tiered retrieval and verification architecture designed to systematically intercept factual inaccuracie…"
+    },
+    {
+      "title": "Substrate-controlled nucleation and growth kinetics in ultrathin Bi$_2$Te$_3$ films",
+      "url": "http://arxiv.org/abs/2603.17868v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T15:55:34Z",
+      "summary": "Metal chalcogenides are promising layered topological materials, yet their electronic performance is often limited by parasitic bulk conduction arising from defects that introduce excess carriers and shift the Fermi level out of the topological regime. Controlling early-stage growth and defect formation is therefore essential for suppressing bulk transport and enhancing surface-state conduction. …"
+    },
+    {
+      "title": "Bivariate deconvolution for cancer detection after surgery",
+      "url": "http://arxiv.org/abs/2603.17864v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T15:52:28Z",
+      "summary": "Detection of minimal residual disease (MRD) in cancer patients after surgery can provide an early marker for disease recurrence and guide subsequent treatment decisions. Accurate and sensitive estimation of tumour burden after cancer surgery may be obtained through liq- uid biopsies, measuring circulating tumour DNA (ctDNA) using, for example, mutation-based Variant Allele Frequency (VAF) values.…"
+    },
+    {
+      "title": "Gaussian concentration, integral probability metrics, and coupling functionals for infinite lattice systems",
+      "url": "http://arxiv.org/abs/2603.17861v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T15:48:36Z",
+      "summary": "We develop a transport-entropy framework for Gaussian concentration inequalities on the infinite product space $S^{\\mathbb Z^d}$, where $S$ is a finite set, in which sensitivity is measured by the $\\ell^2$-norm of local oscillations. We show that the associated transportation costs cannot be induced by any metric or cost function on the configuration space, due to a structural lack of extensivity…"
+    },
+    {
+      "title": "Ambidextrous global spectra and tempered cohomology",
+      "url": "http://arxiv.org/abs/2603.17853v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T15:43:00Z",
+      "summary": "We introduce generalizations of global equivariant spectra which encode globally equivariant cohomology theories equipped with additional transfers, such as the deflation maps present in equivariant topological $K$-theory. We call these $\\mathcal{Q}$-ambidextrous global spectra, where $\\mathcal{Q}$ is a parameter encoding which additional transfers one allows. As our main example, we prove that t…"
+    },
+    {
+      "title": "Revisiting foundation models for cell instance segmentation",
+      "url": "http://arxiv.org/abs/2603.17845v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T15:34:42Z",
+      "summary": "Cell segmentation is a fundamental task in microscopy image analysis. Several foundation models for cell segmentation have been introduced, virtually all of them are extensions of Segment Anything Model (SAM), improving it for microscopy data. Recently, SAM2 and SAM3 have been published, further improving and extending the capabilities of general-purpose segmentation foundation models. Here, we c…"
+    },
+    {
+      "title": "Uncertainty equality for SU(N) observables enabling the experimentally friendly detection of k-inseparability via purity measurements",
+      "url": "http://arxiv.org/abs/2603.17844v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T15:33:59Z",
+      "summary": "We derive an exact uncertainty relation for arbitrary quantum states of finite-dimensional Hilbert spaces. For any given $k$-partition of a $d$-dimensional multipartite system, we introduce the total uncertainty as the sum of the uncertainties associated with all possible tensor products of local $\\mathrm{SU}(N)$ observables, where each observable acts on the corresponding subsystem. We show that…"
+    },
+    {
+      "title": "RPMS: Enhancing LLM-Based Embodied Planning through Rule-Augmented Memory Synergy",
+      "url": "http://arxiv.org/abs/2603.17831v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T15:26:00Z",
+      "summary": "LLM agents often fail in closed-world embodied environments because actions must satisfy strict preconditions -- such as location, inventory, and container states -- and failure feedback is sparse. We identify two structurally coupled failure modes: (P1) invalid action generation and (P2) state drift, each amplifying the other in a degenerative cycle. We present RPMS, a conflict-managed architect…"
+    },
+    {
+      "title": "CodeScout: An Effective Recipe for Reinforcement Learning of Code Search Agents",
+      "url": "http://arxiv.org/abs/2603.17829v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T15:25:42Z",
+      "summary": "A prerequisite for coding agents to perform tasks on large repositories is code localization - the identification of relevant files, classes, and functions to work on. While repository-level code localization has been performed using embedding-based retrieval approaches such as vector search, recent work has focused on developing agents to localize relevant code either as a standalone precursor t…"
+    },
+    {
+      "title": "Steering Video Diffusion Transformers with Massive Activations",
+      "url": "http://arxiv.org/abs/2603.17825v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T15:24:12Z",
+      "summary": "Despite rapid progress in video diffusion transformers, how their internal model signals can be leveraged with minimal overhead to enhance video generation quality remains underexplored. In this work, we study the role of Massive Activations (MAs), which are rare, high-magnitude hidden state spikes in video diffusion transformers. We observed that MAs emerge consistently across all visual tokens,…"
+    },
+    {
+      "title": "Multi-Source Evidence Fusion for Audio Question Answering",
+      "url": "http://arxiv.org/abs/2603.17822v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T15:12:42Z",
+      "summary": "Large audio language models (LALMs) can answer questions about speech, music, and environmental sounds, yet their internal reasoning is largely opaque and difficult to validate. We describe TalTech's solution to the Agent Track of the Interspeech 2026 Audio Reasoning Challenge, in which systems are evaluated on reasoning process quality, specifically the factual accuracy, logical soundness, and c…"
+    },
+    {
+      "title": "Hamiltonian Simulation and Linear Combination of Unitary Decomposition of Structured Matrices",
+      "url": "http://arxiv.org/abs/2603.17816v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T15:09:06Z",
+      "summary": "To treat a problem with a Quantum Processing Unit (QPU), it must be transformed into a sequence of quantum operations, or gates: this is the quantum description of the problem. These operations are either packed into a query (i.e. quantum algorithm primitive) that encodes the problem, or used to construct the cost function for Variationnal Quantum Algorithm (VQA). Typical queries are the problem …"
+    },
+    {
+      "title": "Moments of Pólya urns balanced in expectation",
+      "url": "http://arxiv.org/abs/2603.17804v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:59:25Z",
+      "summary": "In this work, recent results on the moments of balanced Pólya urns are generalized to unbalanced urns, with the condition that the expected change in total activity at each step is constant. We also provide applications of our results to the degree distributions of random trees grown by uniform attachment with freezing and to the degree distribution of hooking networks; in both cases we prove a n…"
+    },
+    {
+      "title": "NashOpt - A Python Library for Computing Generalized Nash Equilibria",
+      "url": "http://arxiv.org/abs/2512.23636v3",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:54:46Z",
+      "summary": "NashOpt is an open-source Python library for computing and designing generalized Nash equilibria (GNEs) in noncooperative games with shared constraints and real-valued decision variables. The library exploits the joint Karush-Kuhn-Tucker (KKT) conditions of all players to handle both general nonlinear GNEs and linear-quadratic games, including their variational versions. Nonlinear games are solve…"
+    },
+    {
+      "title": "Site-selective renormalization and competing magnetic instabilities in paramagnet Y$_{3}$Cu$_{2}$Sb$_{3}$O$_{14}$",
+      "url": "http://arxiv.org/abs/2603.17796v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:53:05Z",
+      "summary": "Quantum spin liquids (QSLs) are exotic phases of matter characterized by long-range entanglement and the absence of magnetic order even at zero temperature. Here, we present a comprehensive theoretical study of the frustrated magnet Y$_{3}$Cu$_{2}$Sb$_{3}$O$_{14}$ to elucidate its electronic and magnetic properties. We uncover two inequivalent Cu sites with fundamentally distinct oxygen coordinat…"
+    },
+    {
+      "title": "Exploring parameter-efficient fine-tuning (PEFT) of billion-parameter vision models with QLoRA and DoRA: insights into generalization for limited-data image classification under a 98:1 test-to-train regime",
+      "url": "http://arxiv.org/abs/2603.17782v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:46:07Z",
+      "summary": "Automated behavior classification is essential for precision livestock farming but faces challenges of high computational costs and limited labeled data. This study systematically compared three approaches: training from scratch (ResNet-18, ViT-Small), frozen feature extraction, and parameter-efficient fine-tuning (PEFT) of the DINOv3 foundation model (6.7 billion parameters). We evaluated QLoRA …"
+    },
+    {
+      "title": "Facts as First Class Objects: Knowledge Objects for Persistent LLM Memory",
+      "url": "http://arxiv.org/abs/2603.17781v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:45:54Z",
+      "summary": "Large language models increasingly serve as persistent knowledge workers, with in-context memory - facts stored in the prompt - as the default strategy. We benchmark in-context memory against Knowledge Objects (KOs), discrete hash-addressed tuples with O(1) retrieval. Within the context window, Claude Sonnet 4.5 achieves 100% exact-match accuracy from 10 to 7,000 facts (97.5% of its 200K window).…"
+    },
+    {
+      "title": "Beware Untrusted Simulators -- Reward-Free Backdoor Attacks in Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2602.05089v3",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:45:34Z",
+      "summary": "Simulated environments are a key piece in the success of Reinforcement Learning (RL), allowing practitioners and researchers to train decision making agents without running expensive experiments on real hardware. Simulators remain a security blind spot, however, enabling adversarial developers to alter the dynamics of their released simulators for malicious purposes. Therefore, in this work we hi…"
+    },
+    {
+      "title": "Explicit Betti Numbers for Skeletons of Chordal Clique Complexes and Their Alexander Duals",
+      "url": "http://arxiv.org/abs/2603.17776v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:39:47Z",
+      "summary": "We study the homological properties of $Δ_{\\mathbf{r}}(n_1, \\dots, n_e)$, a simplicial complex formed by sequentially gluing complete graphs along $(r_i-1)$-simplices. This construction generates precisely the chordal clique complexes, whose Stanley-Reisner ideals admit 2-linear resolutions. By computing the $f$-vector and evaluating the Hilbert series, we establish explicit graded Betti numbers …"
+    },
+    {
+      "title": "Quantum Depth Compression via Local Dynamic Circuits",
+      "url": "http://arxiv.org/abs/2603.17774v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:35:20Z",
+      "summary": "We present Quantum Depth Compression (QDC), a general compilation framework that utilizes dynamic circuits to reduce arbitrary quantum circuits to depth linear in the number of non-Clifford gates and to grid connectivity without the need for expensive SWAP-networks. The framework consists of pushing Clifford gates to the end of the circuit, resulting in a sequence of non-Clifford Pauli-phasors fo…"
+    },
+    {
+      "title": "Large Language Models in Teaching and Learning: Reflections on Implementing an AI Chatbot in Higher Education",
+      "url": "http://arxiv.org/abs/2603.17773v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:34:12Z",
+      "summary": "The landscape of education is changing rapidly, shaped by emerging pedagogical approaches, technological innovations such as artificial intelligence (AI), and evolving societal expectations, all of which demand thorough evaluation of new educational tools. Although large language models (LLMs) present substantial opportunities especially in Higher Education, their propensity to generate hallucina…"
+    },
+    {
+      "title": "Modeling Overlapped Speech with Shuffles",
+      "url": "http://arxiv.org/abs/2603.17769v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:28:58Z",
+      "summary": "We propose to model parallel streams of data, such as overlapped speech, using shuffles. Specifically, this paper shows how the shuffle product and partial order finite-state automata (FSAs) can be used for alignment and speaker-attributed transcription of overlapped speech. We train using the total score on these FSAs as a loss function, marginalizing over all possible serializations of overlapp…"
+    },
+    {
+      "title": "Uncertainty Relation for Entropy and Temperature of Gibbs States",
+      "url": "http://arxiv.org/abs/2603.16456v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:26:00Z",
+      "summary": "We derive the quantum Fisher information for entropy estimation in a Gibbs state and show that $F_s = 1/C_v$, dual to the temperature Fisher information $F_S = C_v/T^2$. Their product $F_S\\cdot F_T = 1/T^2$ is independent of the Hamiltonian, yielding the universal uncertainty relation $Δ^2 S\\,Δ^2 T \\geq T^2/n^2$ in which all system-specific quantities such as heat capacity, the Hamiltonian, and t…"
+    },
+    {
+      "title": "Discrete-time dynamics, step-skew products, and pipe-flows",
+      "url": "http://arxiv.org/abs/2409.02318v5",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:24:48Z",
+      "summary": "Dynamical processes can be classified in various ways as deterministic or stochastic, and continuous or discrete time. All these types can be studied by the path-spaces they generate, and stationary measures on that path-space. Such measures are called the law of the dynamics. This article presents how a general ergodic dynamical system may be approximated in terms of their law, by a simple and r…"
+    },
+    {
+      "title": "Robust Dynamic Pricing and Admission Control with Fairness Guarantees",
+      "url": "http://arxiv.org/abs/2603.17764v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:23:36Z",
+      "summary": "Dynamic pricing is commonly used to regulate congestion in shared service systems. This paper is motivated by the fact that when heterogeneaous user groups (in terms of price responsiveness) are present, conventional monotonic pricing can lead to unfair outcomes by disproportionately excluding price-elastic users, particularly under high or uncertain demand. The paper's contributions are twofold.…"
+    },
+    {
+      "title": "Harm or Humor: A Multimodal, Multilingual Benchmark for Overt and Covert Harmful Humor",
+      "url": "http://arxiv.org/abs/2603.17759v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:21:10Z",
+      "summary": "Dark humor often relies on subtle cultural nuances and implicit cues that require contextual reasoning to interpret, posing safety challenges that current static benchmarks fail to capture. To address this, we introduce a novel multimodal, multilingual benchmark for detecting and understanding harmful and offensive humor. Our manually curated dataset comprises 3,000 texts and 6,000 images in Engl…"
+    },
+    {
+      "title": "Tangle structure trees II: trees of tangles and tangle-tree duality",
+      "url": "http://arxiv.org/abs/2603.17756v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:17:31Z",
+      "summary": "Tangle structure trees, introduced in [3], offer a unified data structure that displays all the tangles of a graph or data set together with certificates for the non-existence of any other tangles, either locally or overall. In this paper we apply tangle structure trees to derive new versions of the two fundamental tangle theorems: the tree-of-tangles theorem, and the tangle-tree duality theorem.…"
+    },
+    {
+      "title": "The asymptotic version of the Erdős-Sós conjecture and beyond",
+      "url": "http://arxiv.org/abs/2603.17755v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:17:19Z",
+      "summary": "Klimošová, Piguet, and Rozhoň conjectured that any graph with minimum degree $k/2$ and sufficiently many vertices of degree $k$ should contain all trees with $k$ edges. We prove an asymptotic version of this conjecture for dense host graphs. We obtain interesting corollaries: the first is an asymptotic version of the Erdős--Sós conjecture for dense host graphs, which works without any bounded-deg…"
+    },
+    {
+      "title": "Inflation with the Gauss-Bonnet term in the Palatini formulation",
+      "url": "http://arxiv.org/abs/2603.17742v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:09:05Z",
+      "summary": "We consider the Gauss-Bonnet term coupled to the inflaton in the Palatini formulation of gravity. Unlike in the metric formulation, the Gauss-Bonnet term is not always a total derivative. We solve for the connection and insert it into the action, exactly for the spatially flat FLRW spacetime, and using the gradient approximation and order reduction for a general spacetime. We consider three cases…"
+    },
+    {
+      "title": "The p-widths of the Hemisphere",
+      "url": "http://arxiv.org/abs/2603.17734v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T14:01:19Z",
+      "summary": "We compute the p-widths, $\\{ω_p\\}$, for the hemisphere with the standard round metric. This provides the first example of a manifold with boundary for which the $p$-widths are known for all $p$."
+    },
+    {
+      "title": "Rotatable Antenna-Enabled Mobile Edge Computing",
+      "url": "http://arxiv.org/abs/2603.16275v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:58:27Z",
+      "summary": "In the evolving landscape of mobile edge computing (MEC), enhancing communication reliability and computation efficiency to support increasingly stringent low-latency services remains a fundamental challenge. Rotatable antenna (RA) is a promising technology that introduces new spatial degrees of freedom (DoFs) to tackle this challenge. In this letter, we investigate an RA-enabled MEC system where…"
+    },
+    {
+      "title": "SARE: Sample-wise Adaptive Reasoning for Training-free Fine-grained Visual Recognition",
+      "url": "http://arxiv.org/abs/2603.17729v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:49:27Z",
+      "summary": "Recent advances in Large Vision-Language Models (LVLMs) have enabled training-free Fine-Grained Visual Recognition (FGVR). However, effectively exploiting LVLMs for FGVR remains challenging due to the inherent visual ambiguity of subordinate-level categories. Existing methods predominantly adopt either retrieval-oriented or reasoning-oriented paradigms to tackle this challenge, but both are const…"
+    },
+    {
+      "title": "Limiting behavior of principal eigenvalues for a class of mixed boundary value problems as the measure of the support domain goes to zero",
+      "url": "http://arxiv.org/abs/2603.17721v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:42:06Z",
+      "summary": "In this paper we characterize the limiting behavior of the principal eigenvalue, $\\s_1[-\\D,\\b,Ø]$, of the boundary value problem \\eqref{1.1} as the Lebesgue measure of the underlying domain, $Ø$, tends to zero. Naturally, the domains $Ø$ are assumed to be included on a fixed open set $D$ such that $\\b\\in\\mc{C}(D)$, and they satisfy $\\barØ\\subset D$. Our main result establishes that, in the classi…"
+    },
+    {
+      "title": "\"I'm Not Reading All of That\": Understanding Software Engineers' Level of Cognitive Engagement with Agentic Coding Assistants",
+      "url": "http://arxiv.org/abs/2603.14225v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:41:18Z",
+      "summary": "Over-reliance on AI systems can undermine users' critical thinking and promote complacency, a risk intensified by the emergence of agentic AI systems that operate with minimal human involvement. In software engineering, agentic coding assistants (ACAs) are rapidly becoming embedded in everyday development workflows. Since software engineers (SEs) create systems deployed across diverse and high-st…"
+    },
+    {
+      "title": "ALPHANSO: Open-Source Modeling of ($α$,n) Neutron Source Terms",
+      "url": "http://arxiv.org/abs/2603.17719v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:39:52Z",
+      "summary": "Applications ranging from nuclear safeguards to dark matter detection require accurate predictions of neutron fields produced by ($α$,n) reactions. Legacy tools like SOURCES-4C remain widely used but suffer from significant limitations, including outdated nuclear data, missing target nuclides, and restricted accessibility. Here, we present ALPHANSO, an open-source Python package for calculating (…"
+    },
+    {
+      "title": "DiffVP: Differential Visual Semantic Prompting for LLM-Based CT Report Generation",
+      "url": "http://arxiv.org/abs/2603.17718v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:38:26Z",
+      "summary": "While large language models (LLMs) have advanced CT report generation, existing methods typically encode 3D volumes holistically, failing to distinguish informative cues from redundant anatomical background. Inspired by radiological cognitive subtraction, we propose Differential Visual Prompting (DiffVP), which conditions report generation on explicit, high-level semantic scan-to-reference differ…"
+    },
+    {
+      "title": "Quantum Distribution Error Mitigation via the Circulant Structure of Pauli Noise",
+      "url": "http://arxiv.org/abs/2501.01953v6",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:34:10Z",
+      "summary": "This work introduces distribution error mitigation (DEM), which mitigates the error in the output distribution of a quantum circuit. We provide a rigorous theoretical foundation. If the composite noise affecting the circuit is a Pauli channel, the ideal output distribution and noisy distribution in the standard basis are related by a stochastic matrix. This system is described by a XOR convolutio…"
+    },
+    {
+      "title": "Rational points in the 6d supergravity landscape and simple current extensions",
+      "url": "http://arxiv.org/abs/2603.17713v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:32:01Z",
+      "summary": "We investigate a recently identified class of six-dimensional supergravities without tensor multiplets whose primitive BPS strings are described by a rational superconformal field theory. Rationality imposes severe constraints on the supersymmetric spectrum of their BPS strings and provides an effective way to study this class of models, despite the absence of a conventional geometric realization…"
+    },
+    {
+      "title": "Biclique Reconfiguration in Bipartite Graphs",
+      "url": "http://arxiv.org/abs/2603.17706v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:24:03Z",
+      "summary": "We prove that Balanced Biclique Reconfiguration on bipartite graphs is PSPACE-complete. This implies the PSPACE-completeness of the spanning variant of Subgraph Reconfiguration under the token jumping rule for the property \"a graph is an $(i, j)$-complete bipartite graph,\" which was previously known only to be NP-hard [Hanaka et al. TCS 2020]. Using our result, we also show that Connected Compone…"
+    },
+    {
+      "title": "The Moralization Corpus: Frame-Based Annotation and Analysis of Moralizing Speech Acts across Diverse Text Genres",
+      "url": "http://arxiv.org/abs/2512.15248v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:22:06Z",
+      "summary": "Moralizations - arguments that invoke moral values to justify demands or positions - are a yet underexplored form of persuasive communication. We present the Moralization Corpus, a novel multi-genre dataset designed to analyze how moral values are strategically used in argumentative discourse. Moralizations are pragmatically complex and often implicit, posing significant challenges for both human…"
+    },
+    {
+      "title": "Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration",
+      "url": "http://arxiv.org/abs/2601.21592v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:20:11Z",
+      "summary": "All-in-One Image Restoration (AiOIR) faces the fundamental challenge in reconciling conflicting optimization objectives across heterogeneous degradations. Existing methods are often constrained by coarse-grained control mechanisms or fixed mapping schedules, yielding suboptimal adaptation. To address this, we propose an Uncertainty-Aware Diffusion Bridge Model (UDBM), which innovatively reformula…"
+    },
+    {
+      "title": "Interacting ground states of moiré ladders",
+      "url": "http://arxiv.org/abs/2401.00483v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:19:19Z",
+      "summary": "Moiré materials have emerged as a rich platform for exploring strong correlation effects in low dimensions, with twisted bilayer graphene (TBG) as a paradigmatic example. To distill the essential ingredients driving moiré-induced phases, a simplified one-dimensional analog -- a two-leg ladder with spatially modulated interleg hopping and a uniform magnetic flux -- was recently introduced. This mo…"
+    },
+    {
+      "title": "Workflow-Aware Structured Layer Decomposition for Illustration Production",
+      "url": "http://arxiv.org/abs/2603.14925v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:18:12Z",
+      "summary": "Recent generative image editing methods adopt layered representations to mitigate the entangled nature of raster images and improve controllability, typically relying on object-based segmentation. However, such strategies may fail to capture the structural and stylized properties of human-created images, such as anime illustrations. To solve this issue, we propose a workflow-aware structured laye…"
+    },
+    {
+      "title": "World Reconstruction From Inconsistent Views",
+      "url": "http://arxiv.org/abs/2603.16736v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:16:47Z",
+      "summary": "Video diffusion models generate high-quality and diverse worlds; however, individual frames often lack 3D consistency across the output sequence, which makes the reconstruction of 3D worlds difficult. To this end, we propose a new method that handles these inconsistencies by non-rigidly aligning the video frames into a globally-consistent coordinate frame that produces sharp and detailed pointclo…"
+    },
+    {
+      "title": "Multiway junction conditions: Jackiw-Teitelboim gravity",
+      "url": "http://arxiv.org/abs/2603.17695v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:13:15Z",
+      "summary": "A booklet is a geometric structure formed by gluing multiple bulk spacetimes along a common interface and imposing gravitational consistency conditions at the junction. We have systematically investigated the properties of booklet structures, constructed the booklet geometry, and derived the multiway junction conditions applicable at the interface. In this work, we provide a complete solution to …"
+    },
+    {
+      "title": "Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers",
+      "url": "http://arxiv.org/abs/2603.10744v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:10:33Z",
+      "summary": "Diffusion Transformers have established a new state-of-the-art in image synthesis, but the high computational cost of iterative sampling severely hampers their practical deployment. While existing acceleration methods often focus on the temporal domain, they overlook the substantial spatial redundancy inherent in the generative process, where global structures emerge long before fine-grained deta…"
+    },
+    {
+      "title": "Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization",
+      "url": "http://arxiv.org/abs/2603.17692v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:09:11Z",
+      "summary": "For LLM trading agents to be genuinely trustworthy, they must demonstrate understanding of market dynamics rather than exploitation of memorized ticker associations. Building responsible multi-agent systems demands rigorous signal validation: proving that predictions reflect legitimate patterns, not pre-trained recall. We address two sources of spurious performance: memorization bias from ticker-…"
+    },
+    {
+      "title": "Aergia: Leveraging Heterogeneity in Federated Learning Systems",
+      "url": "http://arxiv.org/abs/2210.06154v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T13:06:42Z",
+      "summary": "Federated Learning (FL) is a popular approach for distributed deep learning that prevents the pooling of large amounts of data in a central server. FL relies on clients to update a global model using their local datasets. Classical FL algorithms use a central federator that, for each training round, waits for all clients to send their model updates before aggregating them. In practical deployment…"
+    },
+    {
+      "title": "Few-Step Diffusion Sampling Through Instance-Aware Discretizations",
+      "url": "http://arxiv.org/abs/2603.17671v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T12:49:38Z",
+      "summary": "Diffusion and flow matching models generate high-fidelity data by simulating paths defined by Ordinary or Stochastic Differential Equations (ODEs/SDEs), starting from a tractable prior distribution. The probability flow ODE formulation enables the use of advanced numerical solvers to accelerate sampling. Orthogonal yet vital to solver design is the discretization strategy. While early approaches …"
+    },
+    {
+      "title": "The Engine and its Flows: Little Red Dot spectra are shaped by the column densities of their gas envelopes",
+      "url": "http://arxiv.org/abs/2603.17667v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T12:33:38Z",
+      "summary": "JWST data have enabled the abundant identification of compact broad Balmer line sources nicknamed the Little Red Dots. While they share broad lines with active galactic nuclei, they are unusually X-ray and infrared weak. We investigate the origin of the Balmer line profiles based on an empirical analysis of 18 broad H$α$-selected sources with high quality spectra at $z\\approx3-7$. The H$α$ line p…"
+    },
+    {
+      "title": "More with Less - Bethel Allocation and Precision-Preserving Sample Size Reduction via Hierarchical Bayes Modelling",
+      "url": "http://arxiv.org/abs/2603.17663v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T12:28:55Z",
+      "summary": "Statistical offices face a familiar and intensifying dilemma: rising demand for detailed regional and domain-level estimates under budgets that are fixed or shrinking. National statistical offices (NSOs) either ignore the problem of optimal sample allocation for multiple target variables when designing a multi-purpose survey, or address it incorrectly - relying on ad hoc approaches such as comput…"
+    },
+    {
+      "title": "Double Traversals in Boundary Subaisles: Implications for Two-Block Layouts",
+      "url": "http://arxiv.org/abs/2512.08235v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T12:28:51Z",
+      "summary": "The order picking problem seeks the shortest warehouse route that visits all required item locations. Strict conditions are known for single-block rectangular layouts under which optimal routes never require double traversals, while broader results show that double traversals serving cross-aisle connectivity can always be avoided. We strengthen these findings by proving that no double traversals …"
+    },
+    {
+      "title": "Optimizing Antenna Coding for Pixel Antenna Empowered SISO-OFDM Systems",
+      "url": "http://arxiv.org/abs/2603.17658v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T12:25:58Z",
+      "summary": "This work investigates antenna coding optimization to enhance the channel capacity of single-input single-output orthogonal frequency division multiplexing (SISO-OFDM) systems empowered by highly reconfigurable pixel antennas. We first introduce the model for pixel antenna empowered SISO-OFDM systems using a beamspace channel representation. We next formulate the problem to maximize the channel c…"
+    },
+    {
+      "title": "Homogeneous Freudenthal algebras and the first Tits construction",
+      "url": "http://arxiv.org/abs/2603.17649v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T12:09:13Z",
+      "summary": "Freudenthal algebras over a field are basically the same as Jordan algebras of degree $3$ remaining simple under all base field extensions. These algebras are intimately linked, via their automorphism groups and structure groups, to simple algebraic groups over arbitrary fields. Our main concern here will be the question of when these algebras are homogeneous in the sense that all their Jordan is…"
+    },
+    {
+      "title": "General bounds on functionals of the lifetime under life table constraints in a joint actuarial-financial framework",
+      "url": "http://arxiv.org/abs/2603.06238v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T12:05:46Z",
+      "summary": "In life insurance, life tables are used to estimate the survival distribution of individuals from a given population. However, these tables only provide survival probabilities at integer ages but no information about the distribution of deaths between two consecutive integer values. This incompleteness is particularly relevant for modern insurance products such as variable annuities, whose payoff…"
+    },
+    {
+      "title": "On the structures of \\{diamond, bowtie\\}-free graphs that do not contain an induced subdivision of $K_4$",
+      "url": "http://arxiv.org/abs/2603.17645v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T12:05:45Z",
+      "summary": "A graph is $\\mathrm{ISK_4}$-free if it contains no induced subdivision of $K_4$. Lévêque et al. [\\emph{J. Combin. Theory Ser. B} \\textbf{102} (2012) 924--947] conjectured that all $\\mathrm{ISK_4}$-free graphs are 4-colorable. Chen et al. [\\emph{J. Graph Theory} \\textbf{96} (2021) 554--577] proved that $\\{\\textnormal{ISK}_4, \\textnormal{diamond}, \\textnormal{bowtie}\\}$-free graphs are 4-colorable …"
+    },
+    {
+      "title": "DSS-GAN: Directional State Space GAN with Mamba backbone for Class-Conditional Image Synthesis",
+      "url": "http://arxiv.org/abs/2603.17637v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:58:47Z",
+      "summary": "We present DSS-GAN, the first generative adversarial network to employ Mamba as a hierarchical generator backbone for noise-to-image synthesis. The central contribution is Directional Latent Routing (DLR), a novel conditioning mechanism that decomposes the latent vector into direction-specific subvectors, each jointly projected with a class embedding to produce a feature-wise affine modulation of…"
+    },
+    {
+      "title": "Hierarchical Decision-Making under Uncertainty: A Hybrid MDP and Chance-Constrained MPC Approach",
+      "url": "http://arxiv.org/abs/2603.17634v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:56:44Z",
+      "summary": "This paper presents a hierarchical decision-making framework for autonomous systems operating under uncertainty, demonstrated through autonomous driving as a representative application. Surrounding agents are modeled using Hybrid Markov Decision Processes (HMDPs) that jointly capture maneuver-level and dynamic-level uncertainties, enabling the multi-modal environmental prediction. The ego agent i…"
+    },
+    {
+      "title": "Open Biomedical Knowledge Graphs at Scale: Construction, Federation, and AI Agent Access with Samyama Graph Database",
+      "url": "http://arxiv.org/abs/2603.15080v3",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:46:32Z",
+      "summary": "Biomedical knowledge is fragmented across siloed databases -- Reactome for pathways, STRING for protein interactions, ClinicalTrials.gov for study registries, DrugBank for drug vocabularies, DGIdb for drug-gene interactions, SIDER for side effects. We present three open-source biomedical knowledge graphs -- Pathways KG (118,686 nodes, 834,785 edges from 5 sources), Clinical Trials KG (7,774,446 n…"
+    },
+    {
+      "title": "3D Spherical Directly-Connected Antenna Array for Low-Altitude UAV Swarm ISAC",
+      "url": "http://arxiv.org/abs/2603.17620v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:34:38Z",
+      "summary": "Recently a novel multi-antenna architecture termed ray antenna array (RAA) was proposed, where several simple uniform linear arrays (sULAs) are arranged in a ray-like structure to enhance communication and sensing performance. By eliminating the need for phase shifters, it also significantly reduces hardware costs. However, RAA is prone to signal blockage and has no elevation angle resolution cap…"
+    },
+    {
+      "title": "A note on Ratliff-Rush filtration, reduction number and postulation number of $\\mathfrak m$-primary ideals",
+      "url": "http://arxiv.org/abs/2307.01196v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:33:38Z",
+      "summary": "Let $(R,\\mathfrak m)$ be a Cohen-Macaulay local ring of dimension $d\\geq 2$ and $I$ an $\\mathfrak m$-primary ideal. Let rd$(I)$ be the reduction number of $I$ and n$(I)$ the postulation number. We prove that for $d=2,$ if n$(I)=ρ(I)-1,$ then rd$(I) \\leq$n$(I)+2$ and if n$(I)\\neq ρ(I)-1,$ then rd$(I)\\geq$n$(I)+2.$ For $d \\geq 3$, if $I$ is integrally closed, depth gr$(I) = d-2$ and n$(I)=-(d-3).$ …"
+    },
+    {
+      "title": "Interpretable Context Methodology: Folder Structure as Agentic Architecture",
+      "url": "http://arxiv.org/abs/2603.16021v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:30:46Z",
+      "summary": "Current approaches to AI agent orchestration typically involve building multi-agent frameworks that manage context passing, memory, error handling, and step coordination through code. These frameworks work well for complex, concurrent systems. But for sequential workflows where a human reviews output at each step, they introduce engineering overhead that the problem does not require. This paper p…"
+    },
+    {
+      "title": "Theoretical Foundations of Latent Posterior Factors: Formal Guarantees for Multi-Evidence Reasoning",
+      "url": "http://arxiv.org/abs/2603.15674v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:30:23Z",
+      "summary": "We present a complete theoretical characterization of Latent Posterior Factors (LPF), a principled framework for aggregating multiple heterogeneous evidence items in probabilistic prediction tasks. Multi-evidence reasoning arises pervasively in high-stakes domains including healthcare diagnosis, financial risk assessment, legal case analysis, and regulatory compliance, yet existing approaches eit…"
+    },
+    {
+      "title": "Hybrid Beamforming via Programmable Unitary RF Networks",
+      "url": "http://arxiv.org/abs/2603.17616v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:29:51Z",
+      "summary": "Conventional hybrid beamforming architectures are often compared with one another and with the fully-digital architecture under the same \\emph{radiated} antenna power. However, the physically relevant budget is the power injected by the RF-chain outputs into the passive analog RF network, which is then usually transferred to the antenna ports in a contractive (lossy) manner. This issue is especia…"
+    },
+    {
+      "title": "How PC-based Methods Err: Towards Better Reporting of Assumption Violations and Small Sample Errors",
+      "url": "http://arxiv.org/abs/2502.14719v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:24:19Z",
+      "summary": "Causal discovery methods based on the PC algorithm are proven to be sound if all structural assumptions are fulfilled and all conditional independence tests are correct. This idealized setting is rarely given in real data. In this work, we first analyze how local errors can propagate throughout the output graph of a PC-based method, highlighting how consequential seemingly innocuous errors can be…"
+    },
+    {
+      "title": "Self-Attention And Beyond the Infinite: Towards Linear Transformers with Infinite Self-Attention",
+      "url": "http://arxiv.org/abs/2603.00175v4",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:23:44Z",
+      "summary": "The quadratic cost of softmax attention limits Transformer scalability in high-resolution vision. We introduce Infinite Self-Attention (InfSA), a spectral reformulation that treats each attention layer as a diffusion step on a content-adaptive token graph, accumulating multi-hop interactions through a discounted Neumann series over attention matrices. This links self-attention to classical graph …"
+    },
+    {
+      "title": "Master Equation for a Quantum Gas of Polarizable Particles in Cavities",
+      "url": "http://arxiv.org/abs/2508.07853v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:22:28Z",
+      "summary": "Quantum gases of atoms and molecules in optical cavities offer a formidable laboratory for studying the out-of-equilibrium dynamics of open quantum systems with long-range interactions. Long-range interactions are here mediated by multiple scattering of cavity photons and can induce the formation of quantum structures in space and time. Control of these dynamics requires a detailed understanding …"
+    },
+    {
+      "title": "Zero entropy cycles on trees: from Topology to Combinatorics and an application to star maps",
+      "url": "http://arxiv.org/abs/2603.17598v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:13:16Z",
+      "summary": "In this paper we give a fully combinatorial description of the zero entropy periodic patterns on trees. Unlike previously known characterizations of such patterns, our criterion is independent of any particular topological realization of the pattern and provides, thus, a practical and fast algorithm to test zero entropy. As an application, consider a $k$-star $T$ (a tree with $k$ edges attached a…"
+    },
+    {
+      "title": "Property (LR) and an embedding theorem for virtually free groups",
+      "url": "http://arxiv.org/abs/2603.17596v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:09:42Z",
+      "summary": "We prove that every virtually free group $G$ has property (LR) of Long and Reid: each finitely generated subgroup of $G$ is a retract of a finite index subgroup. The main ingredient in the proof is a new embedding result stating that every countable virtually free group embeds in a double of a finite group. As a corollary, we show that any group commensurable with the direct product of a free gro…"
+    },
+    {
+      "title": "A Contextual Help Browser Extension to Assist Digital Illiterate Internet Users",
+      "url": "http://arxiv.org/abs/2603.17592v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T11:06:56Z",
+      "summary": "This paper describes the design, implementation, and evaluation of a browser extension that provides contextual help to users who hover over technological acronyms and abbreviations on web pages. The extension combines a curated technical dictionary with OpenAI's large language model (LLM) to deliver on-demand definitions through lightweight tooltip overlays. A dual-layer artificial intelligence …"
+    },
+    {
+      "title": "Quantitative harmonic approximations and Dorronsoro's Theorem in metric measure spaces",
+      "url": "http://arxiv.org/abs/2603.17590v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T10:57:12Z",
+      "summary": "Suppose $X$ is an $\\rm{RCD}(K,N)$ space with $K \\in \\mathbb{R}$ and $N \\in (1,\\infty)$. We obtain a characterisation of the Newtonian-Sobolev space $N^{1,2}(X)$ in terms of a quantity which measures to what extent a function is locally (across all scales and locations) well-approximated by harmonic functions. A similar characterisation is obtained which further takes into account the local oscill…"
+    },
+    {
+      "title": "A dynamic mechanism for prevalence of triangles in competitive networks",
+      "url": "http://arxiv.org/abs/2603.17584v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T10:47:12Z",
+      "summary": "Triangles are abundant in real-world networks but rare in standard null models for sparse graphs. Existing explanations typically rely on explicit triadic closure mechanisms or geometry-based connection rules. We propose an alternative hypothesis: the frequent appearance of triangles may arise naturally from the requirement of dynamic stability that maintains coexistence of species in Lotka-Volte…"
+    },
+    {
+      "title": "Edit-As-Act: Goal-Regressive Planning for Open-Vocabulary 3D Indoor Scene Editing",
+      "url": "http://arxiv.org/abs/2603.17583v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T10:46:42Z",
+      "summary": "Editing a 3D indoor scene from natural language is conceptually straightforward but technically challenging. Existing open-vocabulary systems often regenerate large portions of a scene or rely on image-space edits that disrupt spatial structure, resulting in unintended global changes or physically inconsistent layouts. These limitations stem from treating editing primarily as a generative task. W…"
+    },
+    {
+      "title": "Quantum theory over dual-complex numbers",
+      "url": "http://arxiv.org/abs/2603.17581v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T10:36:17Z",
+      "summary": "We take quantum theory and replace $\\mathbb{C}$ by $\\mathbb{C}[\\varepsilon]$ where $\\varepsilon^2=0$, i.e. we extend quantum theory to the ring of dual complex numbers. The aim is to develop a common language in which to treat continuous quantum physics and discrete quantum models in a unified manner, including their symmetries. Since quantum theory is linear, introducing $\\varepsilon$ is enough …"
+    },
+    {
+      "title": "Calligraphy Concerning Casually Compiled Cardinal Characteristic Comparisons",
+      "url": "http://arxiv.org/abs/2407.09630v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T10:32:58Z",
+      "summary": "The paper establishes several inequalities between cardinal characteristics of the continuum. In particular, it is shown that the partition splitting number is not larger than the uniformity of the meagre ideal; not all sets of reals having the cardinality of an the $\\varepsilon$-almost bisecting number are of strong measure zero; no fewer sets of strong measure zero than indicated by the statist…"
+    },
+    {
+      "title": "U-ARM : Ultra low-cost general teleoperation interface for robot manipulation",
+      "url": "http://arxiv.org/abs/2509.02437v4",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T10:20:32Z",
+      "summary": "We propose U-Arm, a low-cost and rapidly adaptable leader-follower teleoperation framework designed to interface with most of commercially available robotic arms. Our system supports teleoperation through three structurally distinct 3D-printed leader arms that share consistent control logic, enabling seamless compatibility with diverse commercial robot configurations. Compared with previous open-…"
+    },
+    {
+      "title": "A $wtt$-introimmune set in \\texorpdfstring{$Π^0_1$}{Pi01} and introimmunity for several reducibilities",
+      "url": "http://arxiv.org/abs/2603.14264v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T10:19:03Z",
+      "summary": "We prove that there exists a weak truth-table introimmune set in the class $Π^0_1$, settling the question left open in previous work of whether the known $Δ^0_2$ existence result can be improved to $Π^0_1$. Since $Σ^0_1$ sets cannot be immune, this is best possible for weak truth-table introimmunity. We also study introimmunity for Jockusch's bounded-search reducibility $\\le_{bs}$ and Andersen's …"
+    },
+    {
+      "title": "Photometric masses for long period CVs: the case study of CSS131106",
+      "url": "http://arxiv.org/abs/2603.17568v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T10:18:17Z",
+      "summary": "We present high-speed photometry of the eclipsing cataclysmic variable CSS131106 J052412+004148. We determine the system parameters by modelling the eclipse lightcurve using the photometric eclipse method, in which the mass ratio is determined from the relative timings of the white dwarf and bright spot eclipses. Despite the blended white dwarf and bright spot ingress, typical of longer period ca…"
+    },
+    {
+      "title": "Geometry and restoration of the quantum Mpemba effect beyond weak-coupling regime in the spin-boson model",
+      "url": "http://arxiv.org/abs/2603.17565v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T10:13:48Z",
+      "summary": "Understanding relaxation dynamics in open quantum systems is a central problem in nonequilibrium quantum physics. Here we investigate the quantum Mpemba effect in the spin-boson model. In the weak-coupling Markovian regime we show that the occurrence of the effect strongly depends on the choice of distance measure at low temperature: while it appears in the trace distance, it can disappear in the…"
+    },
+    {
+      "title": "Equivalent class of Emergent Single Weyl Fermion in 3d Topological States: gapless superconductors and superfluids Vs chiral fermions",
+      "url": "http://arxiv.org/abs/2510.25959v3",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T10:11:20Z",
+      "summary": "In this article, we put forward a practical but generic approach towards constructing a large family of $(3+1)$ dimension lattice models which can naturally lead to a single Weyl cone in the infrared (IR) limit. Our proposal relies on spontaneous charge $U(1)$ symmetry breaking to evade the usual no-go theorem of a single Weyl cone in a 3d lattice. We have explored three concrete paths in this ap…"
+    },
+    {
+      "title": "On dynamical semigroup for damped driven Jaynes-Cummings equations",
+      "url": "http://arxiv.org/abs/2603.17553v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T10:01:49Z",
+      "summary": "The article addresses the damped driven Jaynes-Cummings for quantised one-mode Maxwell field coupled to a two-level molecule. We consider a broad class of damping and pumping which are polynomial in the creation and annihilation operators. Our main result is the construction of a contraction dynamical semigroup in the Hilbert space of Hermitian Hilbert-Schmidt operators in the case of a nonpositi…"
+    },
+    {
+      "title": "Constructing, Classifying and Studying the Space of Small Integer Weighing Matrices",
+      "url": "http://arxiv.org/abs/2603.17552v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T10:00:16Z",
+      "summary": "Integer weighing matrices (IW-matrices for short) are integer valued orthogonal square matrices. One usecase of these is to create classical weighing matrices with various block structures. In this paper we study and classify the space $IW(n,k)$ of the integer weighing matrices of small size $n\\times n$ and weight $k$. Our classification includes a full list of all inequivalent matrices up to Had…"
+    },
+    {
+      "title": "Distance Backbones Optimize Spreading Dynamics and Centrality Ranks in the Sparsification of Complex Networks",
+      "url": "http://arxiv.org/abs/2603.14564v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T09:48:42Z",
+      "summary": "Detailed network models of social, biological and other complex systems are often dense, which increases their computational complexity in simulations and analysis. To address this challenge, graph sparsification is used to remove edges while preserving desired network properties. Distance backbones of weighted graphs, which remove edges that break a generalized triangle inequality for any given …"
+    },
+    {
+      "title": "The Inverse Lyndon Array: Definition, Properties, and Linear-Time Construction",
+      "url": "http://arxiv.org/abs/2603.17537v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T09:44:34Z",
+      "summary": "The Lyndon array stores, at each position of a word, the length of the longest maximal Lyndon subword starting at that position, and plays an important role in combinatorics on words, for example in the construction of fundamental data structures such as the suffix array. In this paper, we introduce the Inverse Lyndon Array, the analogous structure for inverse Lyndon words, namely words that are …"
+    },
+    {
+      "title": "Fully 3D-Printed Wideband Metasurface Folded Reflectarray Antenna",
+      "url": "http://arxiv.org/abs/2603.17526v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T09:31:06Z",
+      "summary": "This article presents a fully 3D-printed wideband metasurface folded reflectarray antenna (MFRA) operating in the millimeter-wave n257 band. The proposed MFRA integrates a novel polarization-rotating reflective metasurface (RMS), a compact embedded horn feed, and a polarization-selective metasurface polarization grid (MPG), all fabricated using a low-cost in-house 3D-printed method. Unlike conven…"
+    },
+    {
+      "title": "Degenerate McKean-Vlasov equations with drift in anisotropic negative Besov spaces",
+      "url": "http://arxiv.org/abs/2401.09165v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T09:17:46Z",
+      "summary": "The paper is concerned with a McKean-Vlasov type SDE with drift in anisotropic Besov spaces with negative regularity and with degenerate diffusion matrix under the weak H{ö}rmander condition. The main result is of existence and uniqueness of a solution in law for the McKean-Vlasov equation, which is formulated as a suitable martingale problem. All analytical tools needed are derived in the paper,…"
+    },
+    {
+      "title": "Computing Characteristic Polynomials of p-Curvatures in Average Polynomial Time",
+      "url": "http://arxiv.org/abs/2106.14637v3",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T09:14:38Z",
+      "summary": "We design a fast algorithm that computes, for a given linear differential operator with coefficients in $Z[x ]$, all the characteristic polynomials of its p-curvatures, for all primes $p < N$ , in asymptotically quasi-linear bit complexity in N. We discuss implementations and applications of our algorithm. We shall see in particular that the good performances of our algorithm are quickly visible."
+    },
+    {
+      "title": "A lightweight framework for characterising extreme precipitation events in climate ensembles",
+      "url": "http://arxiv.org/abs/2603.17502v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T09:06:13Z",
+      "summary": "This article summarises the methods used by the team ``Ca' Foscari\" for the EVA 2025 Data Challenge. The questions of the challenge concern the estimation of exceedance probabilities across several locations. Rather than modelling the spatial dependence structure, we reduce the problems to univariate ones by considering relevant spatial order statistics across the sites. Within a Peaks over Thres…"
+    },
+    {
+      "title": "Classification of Smooth Alignable Voss Surfaces",
+      "url": "http://arxiv.org/abs/2603.17501v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T09:06:04Z",
+      "summary": "Alignable nets are grid structures that can collapse to a planar strip, which is in fact the real-world counterpart of a curve. This property simplifies on-site assembly and enables compact transport and storage. These grid structures can then be deployed by a scissor motion at each vertex in a desired location. In this article, we classify all surfaces supporting an alignable net that additional…"
+    },
+    {
+      "title": "Cyberlanguage: Native Communication for the Cyber-Physical-Social-Thinking Fusion Space",
+      "url": "http://arxiv.org/abs/2603.17498v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T08:58:43Z",
+      "summary": "Human communication is undergoing a fundamental paradigm shift. Physical space, social relations, mental states, and digital information are converging into a unified cyber-physical-social-thinking (CPST) fusion space, rendering them no longer separable domains. However, all existing communication systems, including natural and programming languages, as well as interaction protocols, were designe…"
+    },
+    {
+      "title": "Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework",
+      "url": "http://arxiv.org/abs/2510.01002v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T08:58:13Z",
+      "summary": "Current learning-based Automated Vulnerability Repair (AVR) approaches, while promising, often fail to generalize effectively in real-world scenarios. Our diagnostic analysis reveals three fundamental weaknesses in state-of-the-art AVR approaches: (1) limited cross-repository generalization, with performance drops on unseen codebases; (2) inability to capture long-range dependencies, causing a pe…"
+    },
+    {
+      "title": "A Continuum Schwinger Method to Study the Pion's Generalized Parton Distribution",
+      "url": "http://arxiv.org/abs/2603.17496v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T08:57:31Z",
+      "summary": "Generalised Parton Distributions (GPDs) provide multidimensional insight into hadron structure and are particularly relevant for the pion, whose dynamics are intimately linked to chiral symmetry breaking. We introduce a novel modelling strategy for pion GPDs that satisfies all QCD constraints by construction: support, polynomiality, positivity, and the soft-pion theorem. The approach is illustrat…"
+    },
+    {
+      "title": "A Weight-Dependent 1RM Prediction Equation Optimized on 303,494 Near-Failure Sets Across 388 Exercises",
+      "url": "http://arxiv.org/abs/2603.17495v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T08:57:06Z",
+      "summary": "Classical equations for predicting one-repetition maximum (1RM) from submaximal performance were derived from small samples performing a single exercise, yet are routinely applied to hundreds of exercises. All use a fixed conversion factor relating repetitions to estimated 1RM, regardless of exercise or load. We used large-scale observational data from a consumer fitness app (303,494 near-failure…"
+    },
+    {
+      "title": "Kinetic Sobolev Spaces",
+      "url": "http://arxiv.org/abs/2603.17491v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T08:55:17Z",
+      "summary": "We define and study homogeneous kinetic Sobolev spaces adapted to the Kolmogorov equation. We consider both local and non-local diffusion. The spaces are built from the Lebesgue spaces L p for all integrability exponents p $\\in$ (1, $\\infty$) with regularity assumptions in the transport and diffusive directions according to the scaling of the Kolmogorov equation. The regularity scale accommodates…"
+    },
+    {
+      "title": "Variants of the Damascus inequality",
+      "url": "http://arxiv.org/abs/2601.00916v4",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T08:39:29Z",
+      "summary": "In 2016, Dannan and Sitnik established the notable Damascus inequality, which features a symmetric structure under a multiplicative constraint. In this study, we consider the natural generalisation of this inequality by characterising all positive integers $m$ and $n$ such that the inequality \\[\\sum_{j=1}^m\\frac{x_j^n-1}{x_{j}^{n+1}+1}\\leqslant 0\\] holds for any positive real numbers $x_1, \\ldots…"
+    },
+    {
+      "title": "Large time behaviour for the semigroup of the kinetic Brownian motion in the plane",
+      "url": "http://arxiv.org/abs/2603.17480v1",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T08:38:36Z",
+      "summary": "We establish an integration by parts formula for the semi-group in time $T > 0$ of the kinetic Brownian motion in the Euclidean plane together with its speed in the circle. The stochastic differential equation of our kinetic Brownian motion is driven here by one real-valued Brownian motion constructed with an orthonormal basis of $L^2([0,T],\\mathbb R)$ and an independent sequence of $\\mathscr N(0…"
+    },
+    {
+      "title": "Chain of Mindset: Reasoning with Adaptive Cognitive Modes",
+      "url": "http://arxiv.org/abs/2602.10063v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T08:27:44Z",
+      "summary": "Human problem-solving is never the repetition of a single mindset, by which we mean a distinct mode of cognitive processing. When tackling a specific task, we do not rely on a single mindset; instead, we integrate multiple mindsets within the single solution process. However, existing LLM reasoning methods fall into a common trap: they apply the same fixed mindset across all steps, overlooking th…"
+    },
+    {
+      "title": "Revisiting Stochastic Gradient Descent for Strongly Convex Objectives: Tight Uniform-in-Time Bounds",
+      "url": "http://arxiv.org/abs/2508.20823v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T08:20:18Z",
+      "summary": "Stochastic optimization via Stochastic Gradient Descent (SGD) is a fundamental problem in statistics and optimization. This paper revisits Stochastic Gradient Descent (SGD) for strongly convex objectives, establishing tight, uniform-in-time convergence bounds. We prove that, with probability at least $1 - β$, a convergence rate of order $\\frac{\\log \\log k + \\log (1/β)}{k}$ simultaneously holds fo…"
+    },
+    {
+      "title": "Assessing LLM Reasoning Through Implicit Causal Chain Discovery in Climate Discourse",
+      "url": "http://arxiv.org/abs/2510.13417v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T08:14:50Z",
+      "summary": "How does a cause lead to an effect, and which intermediate causal steps explain their connection? This work scrutinizes the mechanistic causal reasoning capabilities of large language models (LLMs) to answer these questions through the task of implicit causal chain discovery. In a diagnostic evaluation framework, we instruct nine LLMs to generate all possible intermediate causal steps linking giv…"
+    },
+    {
+      "title": "Learning Adaptive Distribution Alignment with Neural Characteristic Function for Graph Domain Adaptation",
+      "url": "http://arxiv.org/abs/2602.10489v2",
+      "source": "arXiv",
+      "date": "2026-03-19",
+      "publishedAt": "2026-03-18T08:03:42Z",
+      "summary": "Graph Domain Adaptation (GDA) transfers knowledge from labeled source graphs to unlabeled target graphs but is challenged by complex, multi-faceted distributional shifts. Existing methods attempt to reduce distributional shifts by aligning manually selected graph elements (e.g., node attributes or structural statistics), which typically require manually designed graph filters to extract relevant …"
+    }
+  ]
+}
