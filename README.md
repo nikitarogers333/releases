@@ -15,9 +15,10 @@ Static site that summarizes **items from roughly the last 24 hours** from:
 ```bash
 cd releases
 npm install
-npm run fetch    # writes src/_data/daily/YYYY-MM-DD.json
-npm run build    # output in docs/ (GitHub Pages compatible)
+npm run fetch       # writes src/_data/daily/YYYY-MM-DD.json
+npm run build:local # static site in docs/ (paths work on localhost:8080)
 npx serve docs -p 8080
+# For GitHub Pages: npm run build  (adds /releases/ path prefix)
 ```
 
 Open `/` for the latest day, `/archive/` for all days, `/releases/YYYY-MM-DD/` for a specific file, `/feed.xml` for RSS (latest day).
@@ -31,7 +32,7 @@ Open `/` for the latest day, `/archive/` for all days, `/releases/YYYY-MM-DD/` f
 Run once per day (cron, launchd, etc.):
 
 ```bash
-npm run fetch && npm run build
+npm run fetch && npm run build && git add src/_data/daily docs && git commit -m "daily" && git push
 ```
 
 Then commit `src/_data/daily/*.json` and `dist/` (or only data + rebuild in CI).

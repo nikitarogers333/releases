@@ -7,7 +7,7 @@
     "build": "eleventy --pathprefix=/releases/",
     "build:local": "eleventy",
     "serve": "npx serve docs -p 8080",
-    "start": "npm run fetch && npm run build && npm run serve",
+    "start": "npm run fetch && npm run build:local && npm run serve",
     "preview": "npm run build && npm run serve"
   },
   "devDependencies": {
