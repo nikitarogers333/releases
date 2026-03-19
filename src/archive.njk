@@ -11,7 +11,7 @@ permalink: /archive/index.html
   <ul class="archive-list">
     {% for p in releasesPages %}
       <li>
-        <a href="/releases/{{ p.dateSlug }}/">{{ p.dateSlug }}</a>
+        <a href="{{ ('/releases/' ~ p.dateSlug ~ '/') | url }}">{{ p.dateSlug }}</a>
         — {{ p.items | length }} items
         {% if p.fetchedAt %}<span class="meta">(fetched {{ p.fetchedAt }})</span>{% endif %}
       </li>

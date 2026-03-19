@@ -3,8 +3,8 @@
   <channel>
     <title>Daily releases</title>
     <description>Last-24h highlights from arXiv, YC, a16z (Future), G2 Learn, and Capterra (when reachable).</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://nikitarogers333.github.io/releases/</link>
+    <atom:link href="https://nikitarogers333.github.io/releases/feed.xml" rel="self" type="application/rss+xml"/>
     
     
       

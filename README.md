@@ -16,8 +16,8 @@ Static site that summarizes **items from roughly the last 24 hours** from:
 cd releases
 npm install
 npm run fetch    # writes src/_data/daily/YYYY-MM-DD.json
-npm run build    # output in dist/
-npx serve dist -p 8080
+npm run build    # output in docs/ (GitHub Pages compatible)
+npx serve docs -p 8080
 ```
 
 Open `/` for the latest day, `/archive/` for all days, `/releases/YYYY-MM-DD/` for a specific file, `/feed.xml` for RSS (latest day).
@@ -39,7 +39,7 @@ Then commit `src/_data/daily/*.json` and `dist/` (or only data + rebuild in CI).
 ## GitHub Pages
 
 1. Set `baseUrl` in `src/_data/site.json` to your site root, e.g. `https://nikitarogers333.github.io/releases`.
-2. Build and deploy `dist/` (e.g. `peaceiris/actions-gh-pages` or Cloudflare Pages).
+2. In the repo **Settings → Pages**, set source to branch `main` and folder **`/docs`** (this project builds into `docs/` for that reason).
 
 ## Notes
 
